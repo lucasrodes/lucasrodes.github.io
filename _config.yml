@@ -1,7 +1,7 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
+title: Lucas Rodés-Guirao
+tag_text: 'Machine Learning. Let data speak. Love working with environmental data.'
+description: "Welcome to my personal github profile page, where you can find all the projects I am currently working on."
 url: "http://127.0.0.1:4000"
 baseurl: ""
 
