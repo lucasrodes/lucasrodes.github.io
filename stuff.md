@@ -8,7 +8,7 @@ I am currently finishing my studies at [KTH](https://www.kth.se/profile/lucasrg/
 
 I am active on [twitter](http://twitter.com/lucasrodesg) and [GitHub](github.com/lucasrodesg). Occasionally, I write in my [blog](https://medium.com/@lucasrg). 
 
-<i class="fa fa-paper-plane fa-lg"> You can contact me at hey[at]lcsrg.me
+You can contact me at hi[at]lcsrg.me
 
 ### Nice, clean, reading!
 
@@ -53,7 +53,7 @@ Just remember to customize the buttons to fit your url in the `_includes/sharing
 
 If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
 
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;</i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
+<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
 
 ### Add images to make your point
 
