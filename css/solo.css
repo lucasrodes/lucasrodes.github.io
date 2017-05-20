@@ -54,7 +54,7 @@ h1 {
 
 @media (min-width: 30rem) {
   h1 {
-    font-size: 2rem; 
+    font-size: 4rem; 
     margin-bottom: 10rem;
   }
 }
@@ -76,7 +76,7 @@ h2 {
 @media (min-width: 30rem) {
   h2 {
     margin-top: 2.5rem;
-    font-size: 1.75rem;
+    font-size: 1.25rem;
     margin-bottom: 8rem;
     margin-right: -4rem;
   }
@@ -85,13 +85,13 @@ h2 {
 h3 {
   margin: 2rem -2rem 1.75rem -2rem;
   margin-top: 2rem;
-  font-size: 0.75rem;
+  font-size: 1.75rem;
 }
 
 @media (min-width: 30rem) {
   h3 {
     margin-top: 2.5rem;
-    font-size: 1rem;
+    font-size: 2rem;
     margin-bottom: 1.5rem;
   }
 }
