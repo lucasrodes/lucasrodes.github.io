@@ -4,7 +4,7 @@ layout: default
 
 ## Machine Learning. Coder. Blogger.
 
-You can download here my [files/CV](CV.pdf). I offently post in my [twitter](http://twitter.com/lucasrodesg) and in my [blog](https://medium.com/@lucasrg).
+You can download here my [CV](files/CV.pdf). I offently post in my [twitter](http://twitter.com/lucasrodesg) and in my [blog](https://medium.com/@lucasrg).
 
 ### Nice, clean, reading!
 
