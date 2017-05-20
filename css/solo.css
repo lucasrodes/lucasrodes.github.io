@@ -45,8 +45,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 1.5rem;
-  margin-bottom: 4rem;
+  font-size: 2.5rem;
+  margin-bottom: 7rem;
   font-weight: 700;
   margin-left: -2rem;
   margin-right: -2rem;
@@ -54,7 +54,7 @@ h1 {
 
 @media (min-width: 30rem) {
   h1 {
-    font-size: 4rem;
+    font-size: 2rem; 
     margin-bottom: 10rem;
   }
 }
@@ -85,13 +85,13 @@ h2 {
 h3 {
   margin: 2rem -2rem 1.75rem -2rem;
   margin-top: 2rem;
-  font-size: 1.75rem;
+  font-size: 0.75rem;
 }
 
 @media (min-width: 30rem) {
   h3 {
     margin-top: 2.5rem;
-    font-size: 2rem;
+    font-size: 1rem;
     margin-bottom: 1.5rem;
   }
 }
