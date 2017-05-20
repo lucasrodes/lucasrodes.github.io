@@ -8,4 +8,4 @@ Hi! I am currently working at [Tracy](https://www.linkedin.com/company-beta/1039
 
 I am active on [Twitter](http://twitter.com/lucasrodesg) and [GitHub](github.com/lucasrodesg). Occasionally, I write on my [blog](https://medium.com/@lucasrg). 
 
-You can contact me at hey[at]lcsrg.me <i class="fa fa-paper-plane">
+You can contact me at hi[at]lcsrg.me <i class="fa fa-paper-plane">
