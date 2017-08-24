@@ -13,3 +13,7 @@ layout: default
 *August 2016*  **I move to Stockholm**
 
     I move to Sweden to finish my master studies as part of a joint program between UPC - Barcelona and KTH - Stockholm. The masters is in Electrical Engineering, with strong emphasis in Machine Learning/A.I.
+    
+    
+    
+[*< Back*](index.md)
