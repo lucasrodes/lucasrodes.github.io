@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## News
+### News
 
 
 **I join Tracy** (April 2017)
