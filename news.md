@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
     I join Tracy (April 2017)
