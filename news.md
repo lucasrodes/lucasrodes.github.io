@@ -6,6 +6,7 @@ layout: page
 
 
 **I join Tracy** (April 2017)
+
 I join this start up with great ambition to deploy a new and revolutionary ML/DL approach in the pet-healthcare industry
 
 **Teaching Assistant at KTH** (January 2017)
