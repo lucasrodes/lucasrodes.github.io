@@ -10,3 +10,7 @@ Hi! I am currently based in Stockholm (Sweden), working at [Tracy](https://www.l
 I am active on [Twitter](http://twitter.com/lucasrodesg) and [GitHub](http://github.com/lucasrodes). Occasionally, I write on my [blog](https://medium.com/@lucasrg). 
 
 You can contact me at hi[at]lcsrg.me <i class="fa fa-paper-plane">
+
+
+
+[*news >*](news.md)
