@@ -14,6 +14,5 @@ You can contact me at hi[at]lcsrg.me <i class="fa fa-paper-plane">
 
 
 [*news >*](news.md)
-
-[*projects >*](projects.md)
+  [*projects >*](projects.md)
 
