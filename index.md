@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Machine Learning. Coder.
+## Home
 
 Hi! Currently contributing to and advising [Tracy](https://www.linkedin.com/company/tracy) and finishing my studies at [KTH](https://www.kth.se/profile/lucasrg/) and at [UPC](http://www.upc.edu). You can find here my [CV](files/CV/CV.pdf), check my [Linkedin](http://linkedin.com/in/lucasrodes) profile or track my publications [here](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en&oi=ao).
 
