@@ -13,5 +13,5 @@ You can contact me at hi[at]lcsrg.me
 
 
 
-  [*> news*](news.md)  [*> projects*](projects.md)
+  [*cd news*](news.md) ~ [*cd projects*](projects.md)
 
