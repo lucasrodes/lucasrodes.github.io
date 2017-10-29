@@ -7,4 +7,4 @@
 **whatstk** --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0 license ([github](https://github.com/lucasrodes/whatstk)).
 
     
-[*cd ..*](index.md)
+[*< home*](index.md)
