@@ -13,4 +13,4 @@ layout: page
     
     
     
-[*< back*](index.md)
+[*cd ..*](index.md)
