@@ -1,4 +1,4 @@
-#### Lucas Rodés-Guirao
+**Lucas Rodés-Guirao**
 _Kitamoto Laboratory_ <br/>
 _National Institute of Informatics_ <br/>
 _1410 S2b-10,_ <br/>
