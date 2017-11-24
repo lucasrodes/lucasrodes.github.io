@@ -8,7 +8,7 @@ I am currently based in Tokyo, working as a Research Intern at [NII](www.nii.ac.
 
 [Twitter](http://twitter.com/lucasrodesg) · [GitHub](http://github.com/lucasrodes) · [Linkedin](http://linkedin.com/in/lucasrodes) 
 
-[*> CV*](cv.md)
+[*> CV*](cv.md) <br/>
 [*> news*](news.md) <br/>
 [*> projects*](projects.md) <br/>
 [*> contact*](contact.md)
