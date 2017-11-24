@@ -14,6 +14,5 @@ You can contact me at hi[at]lcsrg.me
 
 
 [*> news*](news.md)
-  
 [*> projects*](projects.md)
 
