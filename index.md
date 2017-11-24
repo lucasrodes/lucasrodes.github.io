@@ -13,7 +13,6 @@ You can contact me at hi[at]lcsrg.me
 
 
 
-[*> news*](news.md)
-
+[*> news*](news.md) <br/>
 [*> projects*](projects.md)
 
