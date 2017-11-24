@@ -9,10 +9,6 @@ I work as a Research Intern at [NII](www.nii.ac.jp/en/). I also contribute and a
 I am active on [Twitter](http://twitter.com/lucasrodesg) and [GitHub](http://github.com/lucasrodes). 
 
 
-You can contact me at hi[at]lcsrg.me
-
-
-
 [*> news*](news.md) <br/>
 [*> projects*](projects.md) <br/>
 [*> contact*](contact.md)
