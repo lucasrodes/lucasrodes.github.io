@@ -4,14 +4,12 @@ layout: default
 
 ## Hi! I am Lucas Rodés-Guirao
 
-I work as a Research Intern at [NII](www.nii.ac.jp/en/). I also contribute and advise [Tracy](https://www.linkedin.com/company/tracy) with Machine Learning. I am finishing a double-degree master in Electrical Engineering at [KTH](https://www.kth.se/profile/lucasrg/) and [UPC](http://www.upc.edu). You can find here my [CV](files/CV/CV.pdf) and my [Linkedin](http://linkedin.com/in/lucasrodes) profile.
+I am currently based in Tokyo, working as a Research Intern at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision. I also contribute and advise [Tracy](https://www.linkedin.com/company/tracy) with Machine Learning related challenges.
 
-I am active on [Twitter](http://twitter.com/lucasrodesg) and [GitHub](http://github.com/lucasrodes). 
+[Twitter](http://twitter.com/lucasrodesg) · [GitHub](http://github.com/lucasrodes) · [Linkedin](http://linkedin.com/in/lucasrodes) 
 
-
-You can contact me at hi[at]lcsrg.me
-
-
-
-  [*> news*](news.md) &nbsp; &nbsp; &nbsp; [*> projects*](projects.md)
+[*> CV*](cv.md) <br/>
+[*> news*](news.md) <br/>
+[*> projects*](projects.md) <br/>
+[*> contact*](contact.md)
 
