@@ -13,5 +13,6 @@ I am currently based in Tokyo, working as a Research Intern at [NII](www.nii.ac.
 [*> cv*](cv.md) <br/>
 [*> news*](news.md) <br/>
 [*> projects*](projects.md) <br/>
+[*> blog*](https://medium.com/@lucasrg) <br/>
 [*> contact*](contact.md)
 
