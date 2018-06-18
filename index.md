@@ -4,7 +4,9 @@ layout: default
 
 ## About me
 
-Based in Barcelona, currently finishing my work as a Research Intern at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision. Former Machine Learning engineer at [Tracy](https://www.linkedin.com/company/tracy). Learning how to play the ukulele.
+Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) and trying to learn how to play ukulele.
+
+Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and Machine Learning engineer at [Tracy](https://www.linkedin.com/company/tracy). 
 
 [Twitter](http://twitter.com/lucasrodesg) · [GitHub](http://github.com/lucasrodes) · [Linkedin](http://linkedin.com/in/lucasrodes) 
 
