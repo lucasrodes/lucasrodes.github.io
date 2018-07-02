@@ -4,3 +4,5 @@
     - 14th June 2018 at KTH Royal Institute of Technology (Stockholm, Sweden).
   - [abstract](master_thesis_abstract.md)
   
+[< back](research.md)
+  
