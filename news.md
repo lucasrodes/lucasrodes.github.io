@@ -16,4 +16,4 @@ layout: default
     
     
     
-[*< back*](index.md)
+[*< home*](index.md)
