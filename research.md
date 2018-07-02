@@ -1,5 +1,11 @@
+---
+layout: default
+---
 
-[projects](projects.md) 	     [presentations](presentations.md)
+## research
+
+[> projects](projects.md) 	     
+[> presentations](presentations.md)
 
 
 [< back](index.md)
