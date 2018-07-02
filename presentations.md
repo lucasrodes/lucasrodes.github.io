@@ -9,7 +9,7 @@ layout: default
     - 6th July 2018 at Universitat Politècnica de Catalunya, Campus Nord room D5-007 (Barcelona, Catalonia/Spain).
     - 14th June 2018 at KTH Royal Institute of Technology (Stockholm, Sweden).
 
-[[abstract]](master_thesis_abstract.md) 
+[[abstract]](tfmabstract.md) 
 
 ---
 
