@@ -1,6 +1,5 @@
 
-| [projects](projects.md) 	| [presentations](presentations.md) 	|
-|-------------------------	|-----------------------------------	|
+[projects](projects.md) 	     [presentations](presentations.md)
 
 
 [< back](index.md)
