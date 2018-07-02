@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About me
+## about me
 
 Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) and trying to learn how to play ukulele.
 
