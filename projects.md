@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Projects
+## projects
 
 
 **deep-koalarization** --- Image colorization using CNNs and Inception-ResNet-v2 ([github](https://github.com/baldassarreFe/deep-koalarization), [website](http://lcsrg.me/deep-koalarization), [arXiv paper](https://arxiv.org/abs/1712.03400)).
