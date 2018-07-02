@@ -11,5 +11,5 @@ layout: default
  
 ---
 
-[< home](research.md)
+[< research](research.md)
   
