@@ -8,4 +8,4 @@ Double-degree master in Electrical Engineering at [KTH](https://www.kth.se/profi
  
 [Download CV](files/CV/CV.pdf)
 
-[< back](index.md)
+[< home](index.md)
