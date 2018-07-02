@@ -8,4 +8,4 @@ layout: default
 [> presentations](presentations.md)
 
 
-[< back](index.md)
+[< home](index.md)
