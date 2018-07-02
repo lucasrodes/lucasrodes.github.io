@@ -13,6 +13,7 @@ Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
 [*> cv*](cv.md) <br/>
 [*> news*](news.md) <br/>
 [*> projects*](projects.md) <br/>
+[*> presentations*](presentations.md) <br/>
 [*> blog*](https://medium.com/@lucasrg) <br/>
 [*> contact*](contact.md)
 
