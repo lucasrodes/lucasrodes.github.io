@@ -7,4 +7,4 @@ layout: default
 **Lucas Rodés-Guirao** <br/>
 _mail: hi [at] lcsrg [dot] me_ <br/>
 
-[< back](index.md)
+[< home](index.md)
