@@ -16,8 +16,9 @@ layout: default
     - [pyphoon library](http://lcsrg.me/pyphoon)
     - [Digital Typhoon website](http://digital-typhoon.org)
 
+
 <hr>
 
-
 [< research](research.md)
+
 <a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
