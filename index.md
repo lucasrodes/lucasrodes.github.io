@@ -8,13 +8,17 @@ Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odige
 
 Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and Machine Learning engineer at [Tracy](https://www.linkedin.com/company/tracy). 
 
-<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
-<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>
-<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>
-
 [*> cv*](cv.md) <br/>
 [*> news*](news.md) <br/>
 [*> research*](research.md) <br/>
 [*> blog*](https://medium.com/@lucasrg) <br/>
 [*> contact*](contact.md)
+
+<hr>
+
+<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
+&nbsp; 
+<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>
+&nbsp; &nbsp; &nbsp;
+<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>
 
