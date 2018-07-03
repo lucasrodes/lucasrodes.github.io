@@ -14,6 +14,7 @@ Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
 
 <a href="url3"><i class="fa-li fa fa-linkedin"></i>
 
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-twitter"></i>with cool icons like this,</li>
