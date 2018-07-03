@@ -7,4 +7,7 @@ layout: default
 **Lucas Rodés-Guirao** <br/>
 _mail: hi [at] lcsrg [dot] me_ <br/>
 
-[< home](index.md)
+<hr>
+
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
+ 
