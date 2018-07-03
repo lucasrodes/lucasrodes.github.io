@@ -10,7 +10,7 @@ Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
 
 <a href="http://linkedin.com/in/lucasrodes"><i class='fa-li fa fa-linkedin'></i></a>
 <a href="http://twitter.com/lucasrodesg"><i class='fa-li fa fa-twitter'></i></a>
-<a href="(http://github.com/lucasrodes"><i class='fa-li fa fa-github'></i></a>
+<a href="http://github.com/lucasrodes"><i class='fa-li fa fa-github'></i></a>
 <a href="{{ site.baseurl }}/index.html"><i class='fa-li fa fa-medium'></i></a>
 
 [*> cv*](cv.md) <br/>
