@@ -15,5 +15,7 @@ layout: default
 **I move to Stockholm** (August 2016) --- I move to Sweden to finish my master studies as part of a joint program between [ETSETB-UPC](http://etsetb.upc.edu/ca) (Barcelona) and [KTH](http://kth.se) (Stockholm). The master is in Electrical Engineering, with strong emphasis in Machine Learning/A.I.
     
     
-    
-[*< home*](index.md)
+<hr>
+
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
+ 
