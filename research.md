@@ -7,5 +7,6 @@ layout: default
 [> projects](projects.md) 	     
 [> presentations](presentations.md)
 
+<hr>
 
-[< home](index.md)
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
