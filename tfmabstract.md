@@ -6,5 +6,5 @@ Efficient early warning systems can help in the management of natural disaster e
 
 <hr>
 
-[< research](presentations.md) <br/>
+[< presentations](presentations.md) <br/>
 <a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
