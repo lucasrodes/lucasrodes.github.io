@@ -10,7 +10,7 @@ Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
 
 <a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
   
-<a href="{{ site.baseurl }}/index.html"><i class='fa-li fa fa-linkedin'></i></a>
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-linkedin'></i></a>
 
 [*> cv*](cv.md) <br/>
 [*> news*](news.md) <br/>
