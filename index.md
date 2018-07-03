@@ -8,13 +8,7 @@ Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odige
 
 Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and Machine Learning engineer at [Tracy](https://www.linkedin.com/company/tracy). 
 
-<a href="url1"><ul class="fa-ul"><i class="fa-li fa fa-linkedin"></i></ul></a>
-
-<ul class="fa-ul"><a href="url2"><i class="fa-li fa fa-linkedin"></i></a></ul>
-
-<a href="url3"><i class="fa-li fa fa-linkedin"></i>
-
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i></a>
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-twitter"></i>with cool icons like this,</li>
