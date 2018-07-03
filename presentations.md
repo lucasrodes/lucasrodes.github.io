@@ -19,5 +19,5 @@ layout: default
 
 <hr>
 
-  [< research](research.md)
-  <a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
+[< research](research.md) <br/>
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
