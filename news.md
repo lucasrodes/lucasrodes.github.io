@@ -4,7 +4,7 @@ layout: default
 
 ## news
 
-**Start at [eDreams Odigeo](https://www.edreamsodigeo.com/)** (June 2018) --- Back to my home town, Barcelona, to work as a Data Scientist at the eDreams Odigeo HQ.
+**Start at [eDreams Odigeo](https://www.edreamsodigeo.com/)** (June 2018) --- Back to my home town, Barcelona, to work as a Data Scientist at the eDreams Odigeo HQs.
 
 **I join [NII](http://www.nii.ac.jp/en/)** (November 2017) --- I join the lab of Prof. [Asanobu Kitamoto](http://agora.ex.nii.ac.jp/~kitamoto/index.html.en), at the National Institute of Informatics in Tokyo.
 
