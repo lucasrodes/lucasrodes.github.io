@@ -4,7 +4,7 @@ layout: default
 
 ## presentations
 
-**deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning** --- defense of my master thesis after a 6 month stay at the [National Institute of Informatics](https://www.nii.ac.jp/en/). 
+**Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning** --- defense of my master thesis after a 6 month stay at the [National Institute of Informatics](https://www.nii.ac.jp/en/). 
   - sessions:
     <ul class="fa-ul">
       <li><i class="fa-li fa fa-square-o"></i> 6th July 2018 at Universitat Politècnica de Catalunya, Campus Nord room D5-007 (Barcelona, Catalonia/Spain).</li>
