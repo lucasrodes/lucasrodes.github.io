@@ -25,6 +25,7 @@ Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
   <i class="fa-li fa fa-linkedin"></i>
 </ul>
 
+<ul class="fa-ul">
   <li><i class="fa-li fa fa-twitter"></i>with cool icons like this,</li>
   <li><i class="fa-li fa fa-github"></i>with cool icons like this,</li>
   <li><i class="fa-li fa fa-medium"></i>with cool icons like this,</li>
