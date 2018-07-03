@@ -10,7 +10,8 @@ Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
 
 <ul class="fa-ul">
   <li><i class="fab fa-linkedin-in"></i> you can make lists...</li>
-  <li><i class="fa-li fa fa-linkedin-in"></i></i>with cool icons like this,</li>
+  <li><i class="fa-li fa fa-linkedin-in"></i>with cool icons like this,</li>
+  <li><i class="fa-li fa fa-linkedin"></i>with cool icons like this,</li>
   <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
 </ul>
 
