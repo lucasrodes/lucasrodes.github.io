@@ -20,13 +20,3 @@ layout: default
 
 
 [< research](research.md)
-
----
-
-##### Legend:
-
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-square-o"></i> --- Presentation to be done.</li>
-  <li><i class="fa-li fa fa-check-square-o"></i> --- Presentation done.</li>
-</ul>
-  
