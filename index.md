@@ -8,6 +8,8 @@ Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odige
 
 Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and Machine Learning engineer at [Tracy](https://www.linkedin.com/company/tracy). 
 
+<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
+  
 <a href="{{ site.baseurl }}/index.html"><i class='fa-li fa fa-linkedin'></i></a>
 
 [*> cv*](cv.md) <br/>
