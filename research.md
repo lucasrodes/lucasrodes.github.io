@@ -4,8 +4,8 @@ layout: default
 
 ## research
 
-[> projects](projects.md) 	     
-[> presentations](presentations.md)
+[> *projects*](projects.md) 	     
+[> *presentations*](presentations.md)
 
 <hr>
 
