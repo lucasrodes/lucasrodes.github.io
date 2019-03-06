@@ -4,10 +4,9 @@ layout: default
 
 ## research
 
-[> *projects*](projects.md) 	     
-[> *presentations*](presentations.md)
-
-[> *google scholar*](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en)
+[> *projects*](projects.md) <br/>
+[> *presentations*](presentations.md) <br/>
+[> *google scholar*](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en) <br/>
 
 <hr>
 
