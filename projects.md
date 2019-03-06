@@ -5,7 +5,7 @@ layout: default
 ## projects
 
 
-**Deep Learning for Digital Typhoon** *2019 February* --- Master Thesis as double degree student (Electrical Engineering at KTH Stockholm and Telecommunications Engineering at UPC Barcelona. ([report](http://www.nada.kth.se/~ann/exjobb/lucas_rodes.pdf)).
+**Deep Learning for Digital Typhoon** *2019 February* --- Master Thesis as double degree student Electrical Engineering at KTH Stockholm and Telecommunications Engineering at UPC Barcelona. ([report](http://www.nada.kth.se/~ann/exjobb/lucas_rodes.pdf)).
 
 **pyphoon** *ongoing* --- Python interface to the Digital Typhoon dataset. ([website](http://lcsrg.me/pyphoon)).
 
