@@ -14,6 +14,8 @@ Former Deep Learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
 [*> cv*](cv.md) <br/>
 [*> contact*](contact.md)
 
+cheers
+
 <hr>
 <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
 &nbsp;
