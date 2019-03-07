@@ -6,6 +6,7 @@ layout: default
 
 **Start at [eDreams Odigeo](https://www.edreamsodigeo.com/)** (June 2018) --- Back to my home town, Barcelona, to work as a Data Scientist at the eDreams Odigeo HQs.
 
+**Featured in Nikkei Science** (April 2018) --- Appearance in interview to Prof. Kitamoto-sensei in [Nikkei Science](http://www.nikkei-science.com/201804_014.html)
 **I join [NII](http://www.nii.ac.jp/en/)** (November 2017) --- I join the lab of Prof. [Asanobu Kitamoto](http://agora.ex.nii.ac.jp/~kitamoto/index.html.en), at the National Institute of Informatics in Tokyo.
 
 **I join [Tracy](https://www.linkedin.com/company/tracy/)** (April 2017) --- I join this start up with great ambition to deploy a new and revolutionary ML/DL approach in the pet-healthcare industry.
