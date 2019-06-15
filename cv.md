@@ -4,8 +4,9 @@ layout: default
 
 ## cv
 
-Double-degree master in Electrical Engineering at [KTH](https://www.kth.se/profile/lucasrg/) and [UPC](http://www.upc.edu). Expected: July 2018.
- 
+Telecom Engineer.
+studied at [KTH](https://www.kth.se), [UPC](https://www.upc.edu/en), [KIT](https://www.kit.edu/english) and [NII](https://www.nii.ac.jp/en/)
+
 [Download CV](files/CV/CV.pdf)
 
 <hr>
