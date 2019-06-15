@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## news
+## timeline
 
 **Start at [eDreams Odigeo](https://www.edreamsodigeo.com/)** (June 2018) --- Back to my home town, Barcelona, to work as a Data Scientist at the eDreams Odigeo HQs.
 
