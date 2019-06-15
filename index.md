@@ -4,7 +4,7 @@ layout: default
 
 ## about me
 
-Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/). Also trying to learn how to play ukulele. Plant-based.
+Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/). Also trying to learn how to play ukulele. Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>.
 
 Former deep learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei's](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and machine learning engineer at [Tracy](https://www.linkedin.com/company/tracy). 
 
