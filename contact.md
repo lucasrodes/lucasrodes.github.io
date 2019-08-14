@@ -7,7 +7,7 @@ layout: default
 **Lucas Rodés-Guirao** <br/>
 _mail: hi [at] lcsrg [dot] me_ <br/>
 
-You may also reach me out via social networks: <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
+social networks: &nbsp; <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
 &nbsp;
 <a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>
 &nbsp;
