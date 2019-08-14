@@ -10,9 +10,10 @@ Also trying to learn how to play ukulele. Plant-based <i class="fa fa-leaf" aria
 Former deep learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei's](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and machine learning engineer at [Tracy](https://www.linkedin.com/company/tracy). 
 
 [*> timeline*](timeline.md) <br/>
-[*> blog*](https://medium.com/@lucasrg) <br/>
 [*> research*](research.md) <br/>
 [*> cv*](cv.md) <br/>
+[*> blog*](https://medium.com/@lucasrg) <br/>
+[*> misc*](misc.md)
 [*> contact*](contact.md)
 
 cheers <i class="fa fa-hand-peace-o" aria-hidden="true"></i>

@@ -4,14 +4,13 @@ layout: default
 
 ## projects
 
-
-**Deep Learning for Digital Typhoon** *2019 February* --- Master Thesis as double degree student Electrical Engineering at KTH Stockholm and Telecommunications Engineering at UPC Barcelona. ([report](http://www.nada.kth.se/~ann/exjobb/lucas_rodes.pdf)).
+**whatstk** *ongoing* --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0 license ([github](https://github.com/lucasrodes/whatstk)).
 
 **pyphoon** *ongoing* --- Python interface to the Digital Typhoon dataset. ([website](http://lcsrg.me/pyphoon)).
 
-**deep-koalarization** *2017 December* --- Image colorization using CNNs and Inception-ResNet-v2 ([github](https://github.com/baldassarreFe/deep-koalarization), [website](http://lcsrg.me/deep-koalarization), [arXiv paper](https://arxiv.org/abs/1712.03400)).
+**Deep Learning for Digital Typhoon** *2019 February* --- Master Thesis as double degree student Electrical Engineering at KTH Stockholm and Telecommunications Engineering at UPC Barcelona. ([report](http://www.nada.kth.se/~ann/exjobb/lucas_rodes.pdf)).
 
-**whatstk** *ongoing* --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0 license ([github](https://github.com/lucasrodes/whatstk)).
+**deep-koalarization** *2017 December* --- Image colorization using CNNs and Inception-ResNet-v2 ([github](https://github.com/baldassarreFe/deep-koalarization), [website](http://lcsrg.me/deep-koalarization), [arXiv paper](https://arxiv.org/abs/1712.03400)).
 
 **Square-Law Selector and Square-Law Combiner for Cognitive Radio Systems: An Experimental Study** *2016 September* --- Successfully published a paper at *Proceedings of IEEE 84th Vehicular Technology Conference (VTC), Sept 2016, Montreal, Canada* ([IEEExplore](http://ieeexplore.ieee.org/document/7881236/?reload=true), [researchgate](https://www.researchgate.net/publication/315468535_Square-Law_Selector_and_Square-Law_Combiner_for_Cognitive_Radio_Systems_An_Experimental_Study), [uni.lu](http://orbilu.uni.lu/handle/10993/29334)).
 
