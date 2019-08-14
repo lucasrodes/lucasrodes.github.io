@@ -6,7 +6,7 @@ layout: default
 
 **Start at [eDreams Odigeo](https://www.edreamsodigeo.com/)** (June 2018) --- Back to my home town, Barcelona, to work as a Data Scientist at the eDreams Odigeo HQs.
 
-**Featured in Yout** (March 2018) --- Interview about "Veganism" in an [article](http://youthstudio.jp/2018/03/07/youthnow085/) from Youth Studio, Tokyo.
+**Featured in Youth Studio** (March 2018) --- Interview about "Veganism" by Youth Studio, Tokyo.
 
 **Featured in Nikkei Science** (April 2018) --- Appearance in an interview to Prof. Kitamoto-sensei in [Nikkei Science](http://www.nikkei-science.com/201804_014.html).
 
