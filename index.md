@@ -13,7 +13,7 @@ Former deep learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamot
 [*> research*](research.md) <br/>
 [*> cv*](cv.md) <br/>
 [*> blog*](https://medium.com/@lucasrg) <br/>
-[*> misc*](misc.md)
+[*> misc*](misc.md) <br/>
 [*> contact*](contact.md)
 
 cheers <i class="fa fa-hand-peace-o" aria-hidden="true"></i>
