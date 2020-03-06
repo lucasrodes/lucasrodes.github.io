@@ -22,10 +22,10 @@ layout: default
 
 **Typhoon image prediction using deep learning and AI**<br/>
 *Presentation of results obtained using AI for Digital Typhoon project.*
-26th April 2018 at [Yokohama Uninversity](https://www.ynu.ac.jp/english/)
+26th April 2018 at [Yokohama National Uninversity](https://www.ynu.ac.jp/english/)
 
   - materials:
-    - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html)
+    - [Presentation slides](ynu-20180425-slides.pdf)
     - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html)
 
 <hr>
