@@ -4,6 +4,7 @@ layout: default
 
 ## presentations
 
+
 **Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning** --- defense of my master thesis after a 6 month stay at the [National Institute of Informatics](https://www.nii.ac.jp/en/). 
   - sessions:
     <ul class="fa-ul">
@@ -15,6 +16,14 @@ layout: default
     - <a href="{{ site.baseurl }}/tfmabstract.html">abstract</a>
     - [pyphoon library](http://lcsrg.me/pyphoon)
     - [digital typhoon website](http://digital-typhoon.org)
+
+**Typhoon image prediction using deep learning and AI** --- Presentation of results obtained using AI for Digital Typhoon project.
+
+  - sessions:
+  	* 26th April 2018 at [Yokohama Uninversity](https://www.ynu.ac.jp/english/)
+  	
+  - materials
+    - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html)
 
 
 <hr>
