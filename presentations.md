@@ -5,8 +5,8 @@ layout: default
 ## presentations
 
 
-**Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning** 
-*defense of my master thesis after a 6 month stay at the [National Institute of Informatics](https://www.nii.ac.jp/en/).* 
+**Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning**<br/>
+*Defense of my master thesis after a 6 month stay at the [National Institute of Informatics](https://www.nii.ac.jp/en/).* 
   - sessions:
     <ul class="fa-ul">
       <li><i class="fa-li fa fa-check-square-o"></i> 6th July 2018 at Universitat Politècnica de Catalunya, Campus Nord room D5-007 (Barcelona, Catalonia/Spain).</li>
@@ -20,13 +20,12 @@ layout: default
 
 ---
 
-**Typhoon image prediction using deep learning and AI**
+**Typhoon image prediction using deep learning and AI**<br/>
 *Presentation of results obtained using AI for Digital Typhoon project.*
-
-  - sessions:
-  	- 26th April 2018 at [Yokohama Uninversity](https://www.ynu.ac.jp/english/)
+26th April 2018 at [Yokohama Uninversity](https://www.ynu.ac.jp/english/)
 
   - materials:
+    - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html)
     - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html)
 
 <hr>
