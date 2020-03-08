@@ -25,7 +25,7 @@ layout: default
 26th April 2018 at [Yokohama National Uninversity](https://www.ynu.ac.jp/english/)
 
   - materials:
-    - [Presentation slides](ynu-20180425-slides.pdf)
+    - [Presentation slides](files/ynu-20180425-slides.pdf)
     - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html)
 
 <hr>
