@@ -1,0 +1,13 @@
+# Site settings
+title: Lucas Rodés-Guirao
+tag_text: 'Lucas Rodés-Guirao'
+description: "Welcome to my personal github profile page, where you can find all the projects I am currently working on."
+url: "http://127.0.0.1:4000"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
