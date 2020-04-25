@@ -4,7 +4,8 @@ layout: default
 
 ## projects
 
-**whatstk**, *ongoing* --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0 license ([github](https://lcsrg.me/whatstk)).
+**whatstk**, *ongoing* --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0
+license ([github](https://github.com/lucasrodes/whatstk), [website](https://lcsrg.me/whatstk)).
 
 **pyphoon**, *ongoing* --- Python interface to the Digital Typhoon dataset. ([website](http://lcsrg.me/pyphoon), [github](https://github.com/lucasrodes/pyphoon)).
 
