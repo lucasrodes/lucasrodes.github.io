@@ -12,14 +12,12 @@ Playing the ukulele is another way I have found of expressing myself.
 
 [*> soundcloud*](https://soundcloud.com/lilkadel)
 ##### Food
-I love cooking and eating. More when I can do it with people. Rices, home made pasta and fresh veggetables are probably 
-my favourites.
+I love cooking. Rices, home made pasta and fresh veggetables are probably my favourites.
 
 I started the **Pan Ribas** project with my brother, an initiative to share visuals on our shared passion: baking bread.
 ![](../images/pa.png)
 
 [*> Instagram*](https://instagram.com/panribas) <br/>
-
 
 <hr>
 
