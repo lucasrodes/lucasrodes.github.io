@@ -5,16 +5,21 @@ layout: default
 ## about me
 
 Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/). 
-Also trying to learn how to play ukulele. Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>.
+Coder and open source contributor.
 
-Former deep learning researcher at [NII](www.nii.ac.jp/en/) under Prof. [Kitamoto-sensei's](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and machine learning engineer at [Tracy](https://www.linkedin.com/company/tracy). 
+Former deep learning researcher at [NII](www.nii.ac.jp/en/) under Prof.
+[Kitamoto-sensei's](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and machine learning
+engineer at [Tracy](https://www.linkedin.com/company/tracy). 
 
-[*> timeline*](timeline.md) <br/>
-[*> research*](research.md) <br/>
-[*> cv*](cv.md) <br/>
+Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>.
+
+[*> news*](./pages/news) <br/>
+[*> projects*](pages/projects) <br/>
+[*> research*](pages/research) <br/>
+[*> cv*](pages/cv) <br/>
 [*> blog*](https://medium.com/@lucasrg) <br/>
-[*> misc*](misc.md) <br/>
-[*> contact*](contact.md)
+[*> misc*](pages/misc) <br/>
+[*> contact*](pages/contact) <br/>
 
 cheers <i class="fa fa-hand-peace-o" aria-hidden="true"></i>
 
