@@ -4,7 +4,7 @@ layout: default
 
 ## about me
 
-My name is Lucas an I am a software developer focused on machine learning applications. Interested in NLP, Computer Vision and Environmental Informatics, to name a few.
+My name is Lucas an I am a software developer focused on machine learning applications and open source projects. Interested in NLP, Computer Vision and Environmental Informatics, to name a few.
 
 Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>
 
