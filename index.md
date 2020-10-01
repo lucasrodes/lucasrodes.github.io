@@ -4,14 +4,14 @@ layout: default
 
 ## about me
 
-Based in Barcelona, I am currently working as a Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/). 
-Coder and open source contributor.
+My name is Lucas an I am a software developer focused on machine learning applications. Interested in NLP, Computer Vision and Environmental Informatics, to name a few.
 
-Former deep learning researcher at [NII](www.nii.ac.jp/en/) under Prof.
-[Kitamoto-sensei's](http://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) supervision and machine learning
-engineer at [Tracy](https://www.linkedin.com/company/tracy). 
+Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>
 
-Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>.
+- Currently: Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) (Barcelona, ES). 
+- Past: Deep learning researcher at [NII](www.nii.ac.jp/en/) (Tokyo, JP), Machine Learning
+Engineer at [Tracy](https://www.linkedin.com/company/tracy) (Stockholm, SE). 
+
 
 [*> news*](./pages/news) <br/>
 [*> projects*](pages/projects) <br/>
