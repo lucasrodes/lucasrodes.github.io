@@ -4,12 +4,12 @@ layout: default
 
 ## about me
 
-My name is Lucas an I am a software developer focused on machine learning applications and open source projects. Interested in NLP, Computer Vision and Environmental Informatics, to name a few.
+My name is Lucas and I am a software developer focused on machine learning and open source projects. Interested in NLP, Computer Vision and Environmental Informatics, to name a few.
 
 Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>
 
-- Currently: Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) (Barcelona, ES). 
-- Past: Deep learning researcher at [NII](www.nii.ac.jp/en/) (Tokyo, JP), Machine Learning
+- Currently : Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) (Barcelona, ES). 
+- Previously: Deep learning researcher at [NII](www.nii.ac.jp/en/) (Tokyo, JP), Machine Learning
 Engineer at [Tracy](https://www.linkedin.com/company/tracy) (Stockholm, SE). 
 
 
