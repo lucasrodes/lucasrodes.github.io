@@ -10,7 +10,7 @@ Towards Data Science** (June 2020) --- Presentation to the public of python libr
 **New server** (July 2020) --- Built new home server! Using Cent OS 8, AMD CPU and NVIDIA GPU. Mainly devoted to AI and
 smart home experiments.
 
-**[Official documentation](https://lcsrg.me/whatstk) for whatstk** (June 2020) --- Project whatstk has now official
+**[Official documentation](https://whatstk.lcsrg.me/) for whatstk** (June 2020) --- Project whatstk has now official
 documentation publicly available.
 
 **Covid-19** (March 2020) --- Working frome home, back to a small village close to Barcelona.

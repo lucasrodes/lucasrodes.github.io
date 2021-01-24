@@ -7,7 +7,7 @@ layout: default
 **covid19-vaccination-subnational**, *ongoing* --- Centralized global COVID-19 vaccination dataset at regional level ([github](https://github.com/sociepy/covid19-vaccination-subnational)).
 
 **whatstk**, *ongoing* --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0
-license ([website](https://lcsrg.me/whatstk), [github](https://github.com/lucasrodes/whatstk), [article](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)).
+license ([website](https://whatstk.lcsrg.me/), [github](https://github.com/lucasrodes/whatstk), [article](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)).
 
 **pyphoon**, *2018 May* --- Python interface to the Digital Typhoon dataset. ([website](http://lcsrg.me/pyphoon), [github](https://github.com/lucasrodes/pyphoon)).
 
