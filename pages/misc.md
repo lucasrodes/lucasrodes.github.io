@@ -17,7 +17,7 @@ I love cooking. Rices, home made pasta and fresh veggetables are probably my fav
 I started the **Pan Ribas** project with my brother, an initiative to share visuals on our shared passion: baking bread.
 ![](../images/pa.png)
 
-[*> Instagram*](https://instagram.com/panribas) <br/>
+[*> Instagram*](https://instagram.com/panribastv) <br/>
 
 <hr>
 
