@@ -6,7 +6,6 @@ layout: default
 
 **covid19-vaccination-subnational**, *ongoing* --- Centralized global COVID-19 vaccination dataset at regional level ([github](https://github.com/sociepy/covid19-vaccination-subnational)).
 
-
 **SociePy**, *ongoing* --- Collaborative data science projects linked to social, environmental analysis and open data ([website](https://sociepy.lcsrg.me/), [github](https://github.com/sociepy)).
 
 **whatstk**, *ongoing* --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0
