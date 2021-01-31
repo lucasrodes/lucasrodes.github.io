@@ -5,7 +5,7 @@ layout: default
 ## projects
 
 **covid19-vaccination-subnational**, *ongoing* --- Centralized global COVID-19 vaccination dataset at regional level
-([websute](https://sociepy.org/covid19-vaccination-subnational), [github](https://github.com/sociepy/covid19-vaccination-subnational)).
+([website](https://sociepy.org/covid19-vaccination-subnational), [github](https://github.com/sociepy/covid19-vaccination-subnational)).
 
 **SociePy**, *ongoing* --- Collaborative data science projects linked to social, environmental analysis and open data ([website](https://sociepy.org/), [github](https://github.com/sociepy)).
 
