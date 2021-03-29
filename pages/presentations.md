@@ -18,6 +18,7 @@ Defense of my master thesis after a 6 month stay at the [National Institute of I
     </ul>
    
   - materials:
+    - [thesis report](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1304600&dswid=-9197)
     - <a href="{{ site.baseurl }}/pages/tfmabstract.html">abstract</a>
     - [pyphoon library]({{ site.baseurl }}/pyphoon)
     - [digital typhoon website](http://digital-typhoon.org)
@@ -31,11 +32,6 @@ Presentation of results obtained using AI for Digital Typhoon project. <br>
   - materials:
     - [Presentation slides]({{ site.baseurl }}/files/ynu-20180425-slides.pdf)
     - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html) (japanese)
-
-<hr>
-
-[< *research*](research.md) <br/>
-<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
 
 <hr>
 <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
