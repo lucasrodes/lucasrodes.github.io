@@ -4,8 +4,8 @@ layout: default
 
 [news](./pages/news) &nbsp;&nbsp; [projects](./pages/projects) &nbsp;&nbsp; [research](./pages/research) &nbsp;&nbsp;
 [cv](./pages/cv) &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc](./pages/misc) &nbsp;&nbsp;
-[contact](./pages/contact)
-# looking for lucas?
+[contact](./pages/contact) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)
+# lucas rodés-guirao
 
 
 A software developer focused on machine learning and open source projects. Interested in Environmental Informatics,
