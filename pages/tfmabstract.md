@@ -8,3 +8,9 @@ Efficient early warning systems can help in the management of natural disaster e
 
 [< presentations](presentations.md) <br/>
 <a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
+
+<hr>
+<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
+<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;
+<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>&nbsp;&nbsp;
+<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>

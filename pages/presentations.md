@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## presentations
+<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp;&nbsp; 
+[news]({{ site.baseurl }}/pages/news.html) &nbsp;&nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp;&nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;&nbsp;
+[cv]({{ site.baseurl }}/pages/cv.html) &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;&nbsp;
+[contact]({{ site.baseurl }}/pages/contact.html) <br/>
+# research/presentations
 
 
 **Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning**<br/>
-*Defense of my master thesis after a 6 month stay at the [National Institute of Informatics](https://www.nii.ac.jp/en/).* 
+Defense of my master thesis after a 6 month stay at the [National Institute of Informatics](https://www.nii.ac.jp/en/). 
   - sessions:
     <ul class="fa-ul">
       <li><i class="fa-li fa fa-check-square-o"></i> 6th July 2018 at Universitat Politècnica de Catalunya, Campus Nord room D5-007 (Barcelona, Catalonia/Spain).</li>
@@ -15,20 +19,26 @@ layout: default
    
   - materials:
     - <a href="{{ site.baseurl }}/pages/tfmabstract.html">abstract</a>
-    - [pyphoon library](http://lcsrg.me/pyphoon)
+    - [pyphoon library]({{ site.baseurl }}/pyphoon)
     - [digital typhoon website](http://digital-typhoon.org)
 
 ---
 
 **Typhoon image prediction using deep learning and AI**<br/>
-*Presentation of results obtained using AI for Digital Typhoon project.*
+Presentation of results obtained using AI for Digital Typhoon project. <br>
 26th April 2018 at [Yokohama National Uninversity](https://www.ynu.ac.jp/english/)
 
   - materials:
-    - [Presentation slides](files/ynu-20180425-slides.pdf)
-    - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html)
+    - [Presentation slides]({{ site.baseurl }}/files/ynu-20180425-slides.pdf)
+    - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html) (japanese)
 
 <hr>
 
 [< *research*](research.md) <br/>
 <a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
+
+<hr>
+<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
+<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;
+<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>&nbsp;&nbsp;
+<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>

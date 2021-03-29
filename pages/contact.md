@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## contact
+<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp;&nbsp; 
+[news]({{ site.baseurl }}/pages/news.html) &nbsp;&nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp;&nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;&nbsp;
+[cv]({{ site.baseurl }}/pages/cv.html) &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;&nbsp;
+[contact]({{ site.baseurl }}/pages/contact.html) <br/>
+# contact
 
-**Lucas Rodés-Guirao** <br/>
-_mail: hi [at] lcsrg [dot] me_ <br/>
-_social networks:_ &nbsp; <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
+
+#### Lucas Rodés-Guirao
+*mail*: hi [at] lcsrg [dot] me<br/>
+*social*: &nbsp; <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
 &nbsp;
 <a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>
 &nbsp;
@@ -14,9 +19,4 @@ _social networks:_ &nbsp; <a href="http://linkedin.com/in/lucasrodes"><i class='
 &nbsp;
 <a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>
 
-
-<img src="18101289.png" style="float: right;" width="110">
-
-<hr>
-
-<a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i>
+<img src="18101289.png" style="float: center;" width="33%">
