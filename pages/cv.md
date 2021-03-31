@@ -8,9 +8,9 @@ cv &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc]({{ site.
 [contact]({{ site.baseurl }}/pages/contact.html) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # cv
 
-- Telecom/Electrical Engineer. Studied at [KTH](https://www.kth.se), [UPC](https://www.upc.edu/en), [KIT](https://www.kit.edu/english) and
-[NII](https://www.nii.ac.jp/en/). <br/>
-- Currently: [Our World in Data](https://ourworldindata.org). Previously: [Tracy](https://www.linkedin.com/company/tracy) and [eDreams ODIGEO](https://www.edreamsodigeo.com/).
+- Telecom/Electrical Engineer. Studied at [KTH](https://www.kth.se), [UPC](https://www.upc.edu/en), [KIT](https://www.kit.edu/english). <br/>
+- Currently: [Our World in Data](https://ourworldindata.org). Previously: [eDreams
+  ODIGEO](https://www.edreamsodigeo.com/), [NII](https://www.nii.ac.jp/en/), [Tracy](https://www.linkedin.com/company/tracy).
 
 [*> Download CV*](https://lcsrg.me/resume/cv.pdf)
 
