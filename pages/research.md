@@ -8,7 +8,7 @@ layout: default
 [contact]({{ site.baseurl }}/pages/contact.html) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # research
 
-My interest lies in the fields of Machine Learning, Environmental Informatics and Social Sciences. <br/>
+My interests lie in the fields of Machine Learning, Environmental Informatics and Social Sciences. <br/>
 
 You can find all my published articles on my personal 
 [google scholar](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en) profile page and on my [blog](https://medium.com/@lucasrg).
