@@ -11,11 +11,11 @@ layout: default
 My interest lies in the fields of Machine Learning, Environmental Informatics and Social Sciences. <br/>
 
 You can find all my published articles on my personal 
-[*google scholar*](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en) profile page and on my [blog](https://medium.com/@lucasrg).
+[google scholar](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en) profile page and on my [blog](https://medium.com/@lucasrg).
 
 
-[> *presentations*](presentations) <br/>
-[> *projects*](projects) <br/>
+[> presentations](presentations) <br/>
+[> projects](projects) <br/>
 
 <hr>
 <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;

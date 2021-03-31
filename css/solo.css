@@ -6,6 +6,15 @@ FFC9B9 - pink
 02020A - black
 */
 /* @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);*/
+
+:root {
+  --darkg: #2C6E49;
+  --lightg: #4c956c;
+  --yellow: #f8f8cf;
+  --pink: #FFC9B9;
+  --black: #02020A;
+}
+
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
@@ -70,6 +79,11 @@ FFC9B9 - pink
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 
+/* CURSOR */
+/*html {
+  cursor: url("./cursor.cur"), auto !important;
+}*/
+
 .back {
   /*border: 2px solid red;*/
   display: flex;
@@ -119,15 +133,31 @@ body {
 }
 
 a {
-  color: #4C956C; /* From http://clrs.cc #008011 */
+  color: var(--lightg); /* From http://clrs.cc #008011 */
   text-decoration: none;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  background:
+     linear-gradient(
+       to bottom, var(--lightg) 0%,
+       var(--lightg) 100%
+     );
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 0px 0px;
+  text-decoration: none;
+  -webkit-transition: background-size 0.5s, color 0.5s;
+  transition: background-size .5s, color 0.5s;
 }
 
 a:hover, a:focus {
   text-decoration: none; /*used to use "underline"*/
   text-decoration-style: initial;
-  background-color: #4C956C;
-  text-decoration-color: #ffffff;
+  background-size: 4px 50px;
+  /*background-color: #4C956C;
+  text-decoration-color: #ffffff;*/
   color: #f8f8cf/*#FFC9B9*/;
 }
 
@@ -210,13 +240,6 @@ p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
   margin-bottom: 1.5rem;
   font-family: 'Noto Sans', sans-serif;
-}
-
-a {
-  font-family: 'Noto Sans', sans-serif;
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
 }
 
 h1, h2, h3, h4, h5, h6{

@@ -9,7 +9,9 @@ contact &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # contact
 
 
-#### Lucas Rodés-Guirao
+### Lucas Rodés-Guirao
+
+#### Personal
 *mail*: hi [at] lcsrg [dot] me<br/>
 *social*: &nbsp; <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
 &nbsp;
@@ -18,5 +20,8 @@ contact &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 <a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>
 &nbsp;
 <a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>
+
+#### Our World in Data
+*mail*: lucas [at] ourworldindata [dot] org<br/>
 
 <img src="18101289.png" style="float: center;" width="33%">
