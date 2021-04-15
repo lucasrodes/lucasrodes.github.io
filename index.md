@@ -11,7 +11,7 @@ layout: default
 A software developer focused on machine learning and open source projects. Interested in Environmental Informatics,
 Sustainability, Open Sciences, to name a few.
 
-Currently at [Our World in Data](https://ourworldindata.org).
+Currently at [Our World in Data](https://ourworldindata.org) mostly working on COVID-19 data.
 
 Feel free to [ping me](./pages/contact).
 
