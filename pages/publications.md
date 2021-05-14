@@ -19,7 +19,7 @@ layout: default
 > Rodés, L., Kaushik, A., Sharma, S.K., Chatzinotas, S. and Jondral, F., 2016, September. [Square-Law Selector and Square-Law Combiner for Cognitive Radio Systems: An Experimental Study. In 2016 IEEE 84th Vehicular Technology Conference (VTC-Fall) (pp. 1-5). IEEE.](https://ieeexplore.ieee.org/abstract/document/7881236?casa_token=_g_STzv2dT0AAAAA:MPr1J99rkErdy0zWZtd_UJm5KbS2m2zPXZs4zF1GkxLL_071LScWouG4EpZBwx3tHDw-_QLggw)
 
 Find more on 
-[google scholar](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en) profile.
+[google scholar](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en).
 
 
 <hr>
