@@ -8,17 +8,22 @@ layout: default
 [contact]({{ site.baseurl }}/pages/contact.html) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # Publications
 
-> Baldassarre, F., Morín, D.G. and Rodés-Guirao, L., 2017. [Deep koalarization: Image colorization using cnns and
-  inception-resnet-v2](https://arxiv.org/abs/1712.03400). arXiv preprint arXiv:1712.03400.
+> [Mathieu, E., Ritchie, H., Ortiz-Ospina, E., Roser, M., Hasell, J., Appel, C., Giattino, C. and Rodés-Guirao, L., 2021.
+  A global database of COVID-19 vaccinations. Nature Human Behaviour, pp.1-7.](https://www.nature.com/articles/s41562-021-01122-8)
 
-> Mathieu, E., Ritchie, H., Ortiz-Ospina, E., Roser, M., Hasell, J., Appel, C., Giattino, C. and Rodés-Guirao, L., 2021.
-  A global database of COVID-19 vaccinations. Nature Human Behaviour, pp.1-7.
+> [Ritchie, H., Ortiz-Ospina, E., Beltekian, D., Mathieu, E., Hasell, J., Macdonald, B., Giattino, C., Appel, C.,
+  Rodés-Guirao, L. and Roser, M., 2020. Coronavirus Pandemic (COVID-19). Our
+  World in Data.]((https://ourworldindata.org/coronavirus))
+
+> [Baldassarre, F., Morín, D.G. and Rodés-Guirao, L., 2017. [Deep koalarization: Image colorization using cnns and
+  inception-resnet-v2. arXiv preprint arXiv:1712.03400.]((https://arxiv.org/abs/1712.03400))
+
+
 
 - Baldassarre, F., Morín, D.G. and Rodés-Guirao, L., 2017. Deep koalarization: Image colorization using cnns and
   inception-resnet-v2. arXiv preprint arXiv:1712.03400.
 - Mathieu, E., Ritchie, H., Ortiz-Ospina, E., Roser, M., Hasell, J., Appel, C., Giattino, C. and Rodés-Guirao, L., 2021.
   A global database of COVID-19 vaccinations. Nature Human Behaviour, pp.1-7.
-- Ritchie, H., Ortiz-Ospina, E., Beltekian, D., Mathieu, E., Hasell, J., Macdonald, B., Giattino, C., Appel, C.,
-  Rodés-Guirao, L. and Roser, M., 2020. Coronavirus Pandemic (COVID-19). Our World in Data.
+- 
 - 
 
