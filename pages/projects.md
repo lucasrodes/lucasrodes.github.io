@@ -8,6 +8,9 @@ layout: default
 [contact]({{ site.baseurl }}/pages/contact.html) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # projects
 
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **owid/covid-19-data** (ongoing) --- Global COVID-19 dataset. <br>
+[[website](https://www.ourworldindata.org/coronavirus), [github](https://github.com/owid/covid-19-data)]
+
 <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **covid19-vaccination-subnational** (ongoing) --- Centralized global COVID-19 vaccination dataset at regional level. <br>
 [[website](https://sociepy.org/covid19-vaccination-subnational), [github](https://github.com/sociepy/covid19-vaccination-subnational)]
 
