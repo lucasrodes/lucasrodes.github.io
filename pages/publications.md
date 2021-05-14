@@ -10,6 +10,7 @@ layout: default
 
 > Baldassarre, F., Morín, D.G. and Rodés-Guirao, L., 2017. Deep koalarization: Image colorization using cnns and
   inception-resnet-v2. arXiv preprint arXiv:1712.03400.
+
 > Mathieu, E., Ritchie, H., Ortiz-Ospina, E., Roser, M., Hasell, J., Appel, C., Giattino, C. and Rodés-Guirao, L., 2021.
   A global database of COVID-19 vaccinations. Nature Human Behaviour, pp.1-7.
 
