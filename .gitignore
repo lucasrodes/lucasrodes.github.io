@@ -18,6 +18,7 @@ files/CV/template.tex
 files/CV/texput.log
 _site
 
+.jekyll-cache
 tmp.md
 
 .idea

@@ -8,12 +8,21 @@ layout: default
 # lucas rodés-guirao
 
 
-A software developer focused on machine learning and open source projects. Interested in Environmental Informatics,
-Sustainability, Open Sciences, to name a few.
+Software developer and data scientist focused on machine learning and open-source projects. Interested in Open Sciences,
+Open Data, Environmental Sciences, to name a few.
 
-Currently at [Our World in Data](https://ourworldindata.org) mostly working on COVID-19 data.
+Currently part of the Data Team at [Our World in Data](https://ourworldindata.org), primarily working on COVID-19, helping
+creating graphs like the one below.
 
-Feel free to [ping me](./pages/contact).
+[Ping me](./pages/contact) for collaborations or to say <i>hi</i>.
+
+
+
+<iframe src="https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?tab=map&time=2021-05-27&country=Low+income~High+income~Upper+middle+income~Lower+middle+income" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+
+
 
 <!--
 Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>

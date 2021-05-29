@@ -11,7 +11,7 @@ FFC9B9 - pink
   --darkg: #2C6E49;
   --lightg: #4c956c;
   --yellow: #f8f8cf;
-  --pink: #FFC9B9;
+  --pink: #fcf4f1;
   --black: #02020A;
 }
 
@@ -64,7 +64,7 @@ FFC9B9 - pink
 @font-face {
   font-family: 'Noto Sans';
   font-style: italic;
-  font-weight: 700;
+  font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/notosans/v12/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW1IPrie.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
@@ -121,7 +121,7 @@ html {
 body {
   margin: 2rem 0 5rem;
   color: #2B303A;
-  /*background-color: #FEFEE3;*/
+  background-color:var(--pink);
 }
 
 @media (min-width: 30rem) {
@@ -136,7 +136,7 @@ a {
   color: var(--lightg); /* From http://clrs.cc #008011 */
   text-decoration: none;
   font-family: 'Noto Sans', sans-serif;
-  font-weight: 700;
+  font-weight: 100;
   font-style: italic;
   font-display: swap;
   background:
@@ -182,7 +182,7 @@ h1 {
   margin-left: -2rem;
   margin-right: -2rem;
   color: #2C6E49;
-  background-color: #f8f8cf;
+  /* background-color: #f8f8cf; */
   font-weight: 500;
 }
 
