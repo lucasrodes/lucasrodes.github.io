@@ -178,9 +178,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.5rem;
-  margin-bottom: 5rem;
-  margin-left: -2rem;
-  margin-right: -2rem;
+  margin-bottom: 1rem;
+  /* margin-left: -2rem;
+  margin-right: -2rem; */
   color: #2C6E49;
   /* background-color: #f8f8cf; */
   font-weight: 500;
@@ -189,7 +189,7 @@ h1 {
 @media (min-width: 30rem) {
   h1 {
     font-size: 3rem; 
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
   }
 }
 
@@ -199,26 +199,26 @@ h1 a {
 
 
 h2 {
-  margin-top: 2rem;
-  font-size: 1.75rem;
+  margin-top: 1rem;
+  font-size: 1rem;
   font-weight: 500;
-  margin-bottom: 5rem;
+  margin-bottom: 1rem;
   color: #555;
-  text-align: right;
-  margin-right: -4rem;
+  text-align: left;
+  /* margin-right: -4rem; */
 }
 
 @media (min-width: 30rem) {
   h2 {
-    margin-top: 2.5rem;
+    margin-top: 1rem;
     font-size: 1.25rem;
-    margin-bottom: 4rem;
-    margin-right: -4rem;
+    margin-bottom: 1rem;
+    /* margin-right: -4rem; */
   }
 }
 
 h3 {
-  margin: 2rem -2rem 1.75rem -2rem;
+  /* margin: 2rem -2rem 1.75rem 0rem; */
   margin-top: 2rem;
   font-size: 1.75rem;
 }
@@ -232,7 +232,7 @@ h3 {
 }
 
 h4, h5, h6 {
-  margin: 1.5rem -1rem 1.5rem -1rem;
+  margin: 1.5rem -1rem 1.5rem 0rem;
   font-size: 1.5rem;
 }
 
