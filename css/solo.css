@@ -11,8 +11,14 @@ FFC9B9 - pink
   --darkg: #2C6E49;
   --lightg: #4c956c;
   --yellow: #f8f8cf;
-  --pink: #fcf4f1;
+  --lightpink: #fcf4f1;
+  --darkpink: #fdd0c2;
   --black: #02020A;
+  --gray: #2B303A;
+  --gray1: #eee;
+  --gray2: #ccc;
+  --gray3: #555;
+  --gray4: #444;
 }
 
 @font-face {
@@ -98,10 +104,10 @@ i {
 }
 /* Selection text*/
 ::selection {
-  background: #ffc9b9; /* WebKit/Blink Browsers */
+  background: var(--darkpink); /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: #ffc9b9; /* Gecko Browsers */
+  background: var(--darkpink); /* Gecko Browsers */
 }
 
 
@@ -120,15 +126,15 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #2B303A;
-  background-color:var(--pink);
+  color: var(--gray);
+  background-color: var(--lightpink);
 }
 
 @media (min-width: 30rem) {
   body {
     /*margin-top: 5rem;*/
     margin: 2rem 0 5rem;
-    color: #2B303A;
+    color: var(--gray);
   }
 }
 
@@ -158,12 +164,12 @@ a:hover, a:focus {
   background-size: 4px 50px;
   /*background-color: #4C956C;
   text-decoration-color: #ffffff;*/
-  color: #f8f8cf/*#FFC9B9*/;
+  color: var(--yellow);
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  color: #111;
+  color: var(--black);
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.2
@@ -181,7 +187,7 @@ h1 {
   margin-bottom: 1rem;
   /* margin-left: -2rem;
   margin-right: -2rem; */
-  color: #2C6E49;
+  color: var(--darkg);
   /* background-color: #f8f8cf; */
   font-weight: 500;
 }
@@ -203,7 +209,7 @@ h2 {
   font-size: 1rem;
   font-weight: 500;
   margin-bottom: 1rem;
-  color: #555;
+  color: var(--gray3);
   text-align: left;
   /* margin-right: -4rem; */
 }
@@ -258,8 +264,8 @@ blockquote {
   margin-left: 0.75rem;
   margin-right: 0;
   padding: 0rem 0.8rem;
-  border-left: .3rem solid #ccc;
-  color: #555;
+  border-left: .3rem solid var(--gray2);
+  color: var(--gray3);
 }
 
 blockquote p:last-child {
@@ -267,7 +273,7 @@ blockquote p:last-child {
 }
 
 .footnote {
-  color: #444;
+  color: var(--gray4);
 }
 
 .center {
@@ -278,7 +284,7 @@ blockquote p:last-child {
 hr {
   border: none;
   margin: 1.5rem 0;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid var(--gray2);
   position: relative;
   top: -1px;
 }
@@ -305,18 +311,18 @@ word-wrap: break-word;
 
 table {
   width: 100%;
-  border: 1px solid #ccc;
+  border: 1px solid var(--gray2);
   border-collapse: collapse;
 }
 
 td, th {
   padding: .25rem .5rem;
-  border: 1px solid #ccc;
+  border: 1px solid var(--gray2);
 }
 
 pre, code {
   font-family: monospace;
-  background-color: #eee;
+  background-color: var(--gray1);
 }
 
 pre {
@@ -383,17 +389,17 @@ pre > code {
   margin-top: 2em;
   margin-left: 1em;
   display: inline-block;
-  border: 2px solid #111;
+  border: 2px solid var(--black);
   border-radius: 0.4em;
   padding: 0.1em 0.75em;
   font-size: 17px;
-  color: #111;
+  color: var(--black);
   text-align: center;
 }
 
 .button:hover {
 	color: white;
-	background-color: #111;
+	background-color: var(--black);
 	cursor: pointer;
 	text-decoration: none;
 	transition: 0.5s;

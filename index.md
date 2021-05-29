@@ -11,15 +11,9 @@ layout: default
 Software developer and data scientist focused on machine learning and open-source projects. Interested in Open Sciences,
 Open Data, Environmental Sciences, to name a few.
 
-Currently, part of the Data Team at [Our World in Data](https://ourworldindata.org), primarily working on COVID-19, helping
-creating graphs like the one below.
+You can find me at [Our World in Data](https://ourworldindata.org), primarily working on COVID-19.
 
 [Ping me](./pages/contact) for collaborations — or to say <i>hi</i>.
-
-
-
-<iframe src="https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?tab=map&time=2021-05-27&country=Low+income~High+income~Upper+middle+income~Lower+middle+income" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
 
 
 
