@@ -8,18 +8,96 @@ FFC9B9 - pink
 /* @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);*/
 
 :root {
-  --darkg: #2C6E49;
-  --lightg: #4c956c;
-  --yellow: #f8f8cf;
+  --darkgreen: #2C6E49;
+  --lightgreen: #4c956c;
+  --lightergreen: rgb(176, 224, 197);
+  --lightyellow: #f7ddaf;
+  --darkyellow: #f5cf8e;
+  --darkeryellow: #d69b2c;
   --lightpink: #fcf4f1;
   --darkpink: #fdd0c2;
+  --white: #f0f0f0;
   --black: #02020A;
   --gray: #2B303A;
   --gray1: #eee;
+  --gray15: #ddd;
   --gray2: #ccc;
+  --gray25: #666;
   --gray3: #555;
   --gray4: #444;
 }
+
+.theme-light {
+  --title: var(--darkgreen);
+  --link: var(--lightgreen);
+  --background: var(--lightpink);
+  --link-hover: var(--lightyellow);
+  --text: var(--gray);
+  --selection: var(--lightergreen);
+  --headers: var(--black);
+  --button: var(--black);
+  --button-hover: white;
+  --others: var(--gray1);
+}
+.theme-dark {
+  --title: var(--lightyellow);
+  --link: var(--darkyellow);
+  --background: var(--gray);
+  --link-hover: var(--darkgreen);
+  --text: var(--gray15);
+  --selection: var(--gray25);
+  --headers: var(--white);
+  --button: var(--black);
+  --button-hover: white;
+  --others: var(--gray1);
+}
+
+/* html, html[data-theme="light"] {
+  --title: var(--darkgreen);
+  --link: var(--lightgreen);
+  --background: var(--lightpink);
+  --link-hover: var(--lightyellow);
+  --text: var(--gray);
+  --selection: var(--lightergreen);
+  --headers: var(--black);
+  --button: var(--black);
+  --button-hover: white;
+  --others: var(--gray1);
+}
+
+html[data-theme="dark"] {
+  --title: var(--lightyellow);
+  --link: var(--darkyellow);
+  --selection: var(--gray25);
+  --link-hover: var(--darkgreen);
+  --background: var(--gray);
+  --text: var(--gray15);
+  --headers: var(--white);
+}
+
+@media (prefers-color-scheme: dark) {
+	html, html[data-theme="dark"] {
+		  --title: var(--lightyellow);
+      --link: var(--darkyellow);
+      --selection: var(--gray25);
+      --link-hover: var(--darkgreen);
+  		--background: var(--gray);
+  		--text: var(--gray15);
+  		--headers: var(--white);
+	}
+  html[data-theme="light"] { 
+    --title: var(--darkgreen);
+    --link: var(--lightgreen);
+    --background: var(--lightpink);
+    --link-hover: var(--lightyellow);
+    --text: var(--gray);
+    --selection: var(--lightergreen);
+    --headers: var(--black);
+    --button: var(--black);
+    --button-hover: white;
+    --others: var(--gray1);
+  }
+} */
 
 @font-face {
   font-family: 'Open Sans';
@@ -104,10 +182,10 @@ i {
 }
 /* Selection text*/
 ::selection {
-  background: var(--darkpink); /* WebKit/Blink Browsers */
+  background: var(--selection); /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: var(--darkpink); /* Gecko Browsers */
+  background: var(--selection); /* Gecko Browsers */
 }
 
 
@@ -126,50 +204,52 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: var(--gray);
-  background-color: var(--lightpink);
+  color: var(--text);
+  background-color: var(--background);
 }
 
 @media (min-width: 30rem) {
   body {
     /*margin-top: 5rem;*/
     margin: 2rem 0 5rem;
-    color: var(--gray);
+    color: var(--text);
   }
 }
 
 a {
-  color: var(--lightg); /* From http://clrs.cc #008011 */
+  color: var(--link); /* From http://clrs.cc #008011 */
   text-decoration: none;
   font-family: 'Noto Sans', sans-serif;
   font-weight: 100;
   font-style: italic;
   font-display: swap;
-  background:
+  /* background:
      linear-gradient(
-       to bottom, var(--lightg) 0%,
-       var(--lightg) 100%
+       to bottom, var(--link) 0%,
+       var(--link) 100%
      );
   background-position: 0 100%;
   background-repeat: repeat-x;
   background-size: 0px 0px;
   text-decoration: none;
   -webkit-transition: background-size 0.5s, color 0.5s;
-  transition: background-size .5s, color 0.5s;
+  transition: background-size .5s, color 0.5s; */
+  padding: 0.2rem;
 }
 
 a:hover, a:focus {
   text-decoration: none; /*used to use "underline"*/
   text-decoration-style: initial;
-  background-size: 4px 50px;
+  background-size: 0.5rem;
   /*background-color: #4C956C;
   text-decoration-color: #ffffff;*/
-  color: var(--yellow);
+  color: var(--link-hover);
+  background-color: var(--link);;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  color: var(--black);
+  color: var(--headers);
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.2
@@ -187,7 +267,7 @@ h1 {
   margin-bottom: 1rem;
   /* margin-left: -2rem;
   margin-right: -2rem; */
-  color: var(--darkg);
+  color: var(--title);
   /* background-color: #f8f8cf; */
   font-weight: 500;
 }
@@ -209,7 +289,7 @@ h2 {
   font-size: 1rem;
   font-weight: 500;
   margin-bottom: 1rem;
-  color: var(--gray3);
+  color: var();
   text-align: left;
   /* margin-right: -4rem; */
 }
@@ -231,14 +311,14 @@ h3 {
 
 @media (min-width: 30rem) {
   h3 {
-    margin-top: 2.5rem;
+    margin-top: 0rem;
     font-size: 2rem;
     margin-bottom: 1.5rem;
   }
 }
 
 h4, h5, h6 {
-  margin: 1.5rem -1rem 1.5rem 0rem;
+  margin: 1rem -1rem 1rem 0rem;
   font-size: 1.5rem;
 }
 
@@ -264,8 +344,8 @@ blockquote {
   margin-left: 0.75rem;
   margin-right: 0;
   padding: 0rem 0.8rem;
-  border-left: .3rem solid var(--gray2);
-  color: var(--gray3);
+  border-left: .3rem solid var(--others);
+  color: var(--others);
 }
 
 blockquote p:last-child {
@@ -273,7 +353,7 @@ blockquote p:last-child {
 }
 
 .footnote {
-  color: var(--gray4);
+  color: var(--others);
 }
 
 .center {
@@ -284,7 +364,7 @@ blockquote p:last-child {
 hr {
   border: none;
   margin: 1.5rem 0;
-  border-bottom: 1px solid var(--gray2);
+  border-bottom: 1px solid var(--others);
   position: relative;
   top: -1px;
 }
@@ -311,18 +391,18 @@ word-wrap: break-word;
 
 table {
   width: 100%;
-  border: 1px solid var(--gray2);
+  border: 1px solid var(--others);
   border-collapse: collapse;
 }
 
 td, th {
   padding: .25rem .5rem;
-  border: 1px solid var(--gray2);
+  border: 1px solid var(--others);
 }
 
 pre, code {
   font-family: monospace;
-  background-color: var(--gray1);
+  background-color: var(--others);
 }
 
 pre {
@@ -389,17 +469,17 @@ pre > code {
   margin-top: 2em;
   margin-left: 1em;
   display: inline-block;
-  border: 2px solid var(--black);
+  border: 2px solid var(--button);
   border-radius: 0.4em;
   padding: 0.1em 0.75em;
   font-size: 17px;
-  color: var(--black);
+  color: var(--button);
   text-align: center;
 }
 
 .button:hover {
-	color: white;
-	background-color: var(--black);
+	color: var(--button-hover);
+	background-color: var(--button);
 	cursor: pointer;
 	text-decoration: none;
 	transition: 0.5s;
@@ -413,3 +493,9 @@ pre > code {
 	width: 100%;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+  align-items: center;
+}

@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp;&nbsp; 
-[news]({{ site.baseurl }}/pages/news.html) &nbsp;&nbsp; projects &nbsp;&nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;&nbsp;
-[cv]({{ site.baseurl }}/pages/cv.html) &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;&nbsp;
-[contact]({{ site.baseurl }}/pages/contact.html) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
+<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp; 
+[news]({{ site.baseurl }}/pages/news.html) &nbsp; projects &nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;
+[cv]({{ site.baseurl }}/pages/cv.html) &nbsp; [blog](https://medium.com/@lucasrg) &nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;
+[contact]({{ site.baseurl }}/pages/contact.html) &nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # projects
 
 <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **owid/covid-19-data** (ongoing) --- Global COVID-19 dataset. <br>
@@ -38,9 +38,3 @@ Canada. <br> [[IEEExplore](http://ieeexplore.ieee.org/document/7881236/?reload=t
 <i class="fa fa-check-square"></i> **Deployment of Energy Detector for Cognitive Relay with Multiple Antennas** (2015 July) --- Bachelor thesis in
 Telecommunications Engineering as an exchange student at KIT.
 <br> [[report](https://upcommons.upc.edu/bitstream/handle/2117/77499/Deployment%20of%20Energy%20Detector%20for%20Cognitive%20Relay%20with%20Multiple%20Antennas%20%28Bachelor%20Thesis%20by%20Lucas%20Rodes%29.pdf?sequence=1&isAllowed=y)]
-
-<hr>
-<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
-<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;
-<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>&nbsp;&nbsp;
-<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>

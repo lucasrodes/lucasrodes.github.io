@@ -1,16 +1,10 @@
 ---
 layout: default
 ---
-<div class="back">
-    <!--<a href="{{ site.baseurl }}/index.html">home</a>&nbsp;&nbsp;&nbsp;
-    <a href="{{ site.baseurl }}/index.html" class="back2">
-        <i class="fa fa-arrow-left" aria-hidden="true"></i>
-    </a>-->
-</div>
-<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp;&nbsp; 
-news &nbsp;&nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp;&nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;&nbsp;
-[cv]({{ site.baseurl }}/pages/cv.html) &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;&nbsp;
-[contact]({{ site.baseurl }}/pages/contact.html) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
+<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp; 
+news &nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;&nbsp;
+[cv]({{ site.baseurl }}/pages/cv.html) &nbsp; [blog](https://medium.com/@lucasrg) &nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;
+[contact]({{ site.baseurl }}/pages/contact.html) &nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 
 # news
 
@@ -61,9 +55,3 @@ smart home experiments.
 #### 2016
 * **Moved to Stockholm** (August 2016) --- Started my master studies at [KTH](http://kth.se) (Stockholm). The master is in
 Electrical Engineering, with strong emphasis in Machine Learning/A.I and is part of a joint program between [ETSETB-UPC](http://etsetb.upc.edu/ca) (Barcelona).
-
-<hr>
-<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
-<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;
-<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>&nbsp;&nbsp;
-<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>

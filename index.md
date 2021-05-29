@@ -15,24 +15,15 @@ You can find me at [Our World in Data](https://ourworldindata.org), primarily wo
 
 [Ping me](./pages/contact) for collaborations — or to say <i>hi</i>.
 
+<!-- <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;">test</a> -->
 
 
-
-<!--
-Plant-based <i class="fa fa-leaf" aria-hidden="true"></i>
-
-
-- Currently : Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) (Barcelona, ES). 
+<!-- - Currently : Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) (Barcelona, ES). 
 - Previously: Deep learning researcher at [NII](www.nii.ac.jp/en/) (Tokyo, JP), Machine Learning
 Engineer at [Tracy](https://www.linkedin.com/company/tracy) (Stockholm, SE). 
 
-cheers <i class="fa fa-hand-peace-o" aria-hidden="true"></i>
--->
+cheers <i class="fa fa-hand-peace-o" aria-hidden="true"></i> -->
 
 
 
-<hr>
-<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
-<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;
-<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>&nbsp;&nbsp;
-<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>
+

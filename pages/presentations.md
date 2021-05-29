@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp;&nbsp; 
-[news]({{ site.baseurl }}/pages/news.html) &nbsp;&nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp;&nbsp;
-[research]({{ site.baseurl }}/pages/research.html) &nbsp;&nbsp;
-[cv]({{ site.baseurl }}/pages/cv.html) &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;&nbsp;
-[contact]({{ site.baseurl }}/pages/contact.html) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
+<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp;
+[news]({{ site.baseurl }}/pages/news.html) &nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp;
+[research]({{ site.baseurl }}/pages/research.html) &nbsp;
+[cv]({{ site.baseurl }}/pages/cv.html) &nbsp; [blog](https://medium.com/@lucasrg) &nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;
+[contact]({{ site.baseurl }}/pages/contact.html) &nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # research/presentations
 
 
@@ -33,9 +33,3 @@ Presentation of results obtained using AI for Digital Typhoon project. <br>
   - materials:
     - [Presentation slides]({{ site.baseurl }}/files/ynu-20180425-slides.pdf)
     - [Blog post](http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html) (japanese)
-
-<hr>
-<a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
-<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;
-<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>&nbsp;&nbsp;
-<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>

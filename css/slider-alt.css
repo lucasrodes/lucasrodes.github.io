@@ -1,0 +1,245 @@
+:root {
+    --color-astro;
+    --page-bg-color: whitesmoke;
+    --page-color: black;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    background-color: var(--page-bg-color);
+    color: var(--page-color);
+    text-align: center;
+    transition: all 500ms ease;
+  }
+  body.dark {
+    --page-bg-color: black;
+    --page-color: whitesmoke;
+  }
+  h1 {
+    font-family: sans-serif;
+    text-shadow: 0 0 5px, 0 0 5px #fff, 0 0 1px ;
+  }
+  .switch-button {  
+    font-size: 100px;
+    width: 5em;
+    background-color: var(--page-bg-color);
+    height: 2em;
+    border: .1em solid var(--page-color);
+    border-radius: 2em;
+    position: relative;
+    margin:  100px auto;
+  }
+  
+  .astro {
+    --color-astro: yellow;
+    color: var(--color-astro);
+    width: 35%;
+    height: 100%;
+    border-radius: 1em;
+    display: inline-block;
+    position: absolute;
+    left: 0;  
+    background-color: currentColor;
+    animation: sun-lights 6s ease-out infinite;
+    transition: left 1s ease, transform 1s linear;
+  }
+  .dark .astro {
+    --color-astro: lightgray;
+    transform: rotate(360deg);
+    left: 65%;
+    animation: none;
+    background: linear-gradient(to right bottom, lightgray, 85%, gray 100%);
+  }
+  
+  .astro:before, .astro:after {
+    content: "";
+    display: block;
+    border-radius: 1px;
+  }
+  .astro:before {
+    width: 15px;
+    height: 10px;  
+    animation: blink-eyes 1.5s ease infinite;
+  }
+  
+  .dark .astro:after {
+    width: 15px;
+    height: 10px;
+    box-shadow: 110px 110px gray,
+      110px 115px gray,
+      105px 110px gray,
+      105px 115px gray,
+      140px 70px gray,
+      60px 135px gray,
+      65px 135px gray,
+      60px 140px gray,
+      65px 140px gray,
+      75px 0px gray,
+      80px 0px gray,
+      75px 5px gray,
+      80px 5px gray;
+  }
+  
+  @keyframes blink-eyes {
+    0% {
+      box-shadow: 70px 60px, 20px 60px,
+      80px 60px, 30px 60px,
+      70px 65px, 20px 65px,
+      80px 65px, 30px 65px,
+      70px 70px , 20px 70px ,
+      80px 70px , 30px 70px ,
+      70px 75px , 20px 75px ,
+      80px 75px , 30px 75px ,
+      70px 80px , 20px 80px ,
+      80px 80px , 30px 80px ,
+      75px 75px #000, 25px 75px #000,
+      75px 70px #000, 25px 70px #000,
+      70px 60px #fff, 20px 60px #fff,
+      80px 60px #fff, 30px 60px #fff,
+      70px 70px #fff, 20px 70px #fff,
+      80px 70px #fff, 30px 70px #fff,
+      70px 80px #fff, 20px 80px #fff,
+      80px 80px #fff, 30px 80px #fff,
+        /* mounth */
+      50px 115px #F00, 40px 105px #FFF, 
+      45px 105px #FFF, 50px 105px #FFF,
+      55px 105px #FFF, 60px 105px #FFF,
+      40px 115px #FFF, 45px 115px #FFF, 
+      50px 115px #FFF, 55px 115px #FFF, 
+      60px 115px #FFF;
+    }
+    25% {
+      box-shadow: 70px 30px , 20px 30px ,
+      80px 30px , 30px 30px ,
+      70px 35px , 20px 35px ,
+      80px 35px , 30px 35px ,
+      70px 40px , 20px 40px ,
+      80px 40px , 30px 40px ,
+      70px 45px , 20px 45px ,
+      80px 45px , 30px 45px ,
+      70px 50px , 20px 50px ,
+      80px 50px , 30px 50px ,
+      85px 75px #000, 35px 75px #000,
+      85px 70px #000, 35px 70px #000,
+      70px 60px #fff, 20px 60px #fff,
+      80px 60px #fff, 30px 60px #fff,
+      70px 70px #fff, 20px 70px #fff,
+      80px 70px #fff, 30px 70px #fff,
+      70px 80px #fff, 20px 80px #fff,
+      80px 80px #fff, 30px 80px #fff,
+        /* mounth */
+      50px 115px #F00, 40px 105px #FFF, 
+      45px 105px #FFF, 50px 105px #FFF,
+      55px 105px #FFF, 60px 105px #FFF,
+      40px 115px #FFF, 45px 115px #FFF, 
+      50px 115px #FFF, 55px 115px #FFF, 
+      60px 115px #FFF;
+    }
+    50% {
+      box-shadow: 70px 30px , 20px 30px ,
+      80px 30px , 30px 30px ,
+      70px 35px , 20px 35px ,
+      80px 35px , 30px 35px ,
+      70px 40px , 20px 40px ,
+      80px 40px , 30px 40px ,
+      70px 45px , 20px 45px ,
+      80px 45px , 30px 45px ,
+      70px 50px , 20px 50px ,
+      80px 50px , 30px 50px ,
+      75px 75px #000, 25px 75px #000,
+      75px 70px #000, 25px 70px #000,
+      70px 60px #fff, 20px 60px #fff,
+      80px 60px #fff, 30px 60px #fff,
+      70px 70px #fff, 20px 70px #fff,
+      80px 70px #fff, 30px 70px #fff,
+      70px 80px #fff, 20px 80px #fff,
+      80px 80px #fff, 30px 80px #fff,
+        /* mounth */
+      50px 115px #F00, 40px 105px #FFF, 
+      45px 105px #FFF, 50px 105px #FFF,
+      55px 105px #FFF, 60px 105px #FFF,
+      40px 115px #FFF, 45px 115px #FFF, 
+      50px 115px #FFF, 55px 115px #FFF, 
+      60px 115px #FFF;
+    }
+    75% {
+      box-shadow: 70px 30px , 20px 30px ,
+      80px 30px , 30px 30px ,
+      70px 35px , 20px 35px ,
+      80px 35px , 30px 35px ,
+      70px 40px , 20px 40px ,
+      80px 40px , 30px 40px ,
+      70px 45px , 20px 45px ,
+      80px 45px , 30px 45px ,
+      70px 50px , 20px 50px ,
+      80px 50px , 30px 50px ,
+      65px 75px #000, 15px 75px #000,
+      65px 70px #000, 15px 70px #000,
+      70px 60px #fff, 20px 60px #fff,
+      80px 60px #fff, 30px 60px #fff,
+      70px 70px #fff, 20px 70px #fff,
+      80px 70px #fff, 30px 70px #fff,
+      70px 80px #fff, 20px 80px #fff,
+      80px 80px #fff, 30px 80px #fff,
+        /* mounth */
+      50px 115px #F00, 40px 105px #FFF, 
+      45px 105px #FFF, 50px 105px #FFF,
+      55px 105px #FFF, 60px 105px #FFF,
+      40px 115px #FFF, 45px 115px #FFF, 
+      50px 115px #FFF, 55px 115px #FFF, 
+      60px 115px #FFF;
+    }
+    100% {
+      box-shadow: 70px 60px, 20px 60px,
+      80px 60px, 30px 60px,
+      70px 65px, 20px 65px,
+      80px 65px, 30px 65px,
+      70px 70px , 20px 70px ,
+      80px 70px , 30px 70px ,
+      70px 75px , 20px 75px ,
+      80px 75px , 30px 75px ,
+      70px 80px , 20px 80px ,
+      80px 80px , 30px 80px ,
+      75px 75px #000, 25px 75px #000,
+      75px 70px #000, 25px 70px #000,
+      70px 60px #fff, 20px 60px #fff,
+      80px 60px #fff, 30px 60px #fff,
+      70px 70px #fff, 20px 70px #fff,
+      80px 70px #fff, 30px 70px #fff,
+      70px 80px #fff, 20px 80px #fff,
+      80px 80px #fff, 30px 80px #fff,
+        /* mounth */
+      50px 115px #F00, 40px 105px #FFF, 
+      45px 105px #FFF, 50px 105px #FFF,
+      55px 105px #FFF, 60px 105px #FFF,
+      40px 115px #FFF, 45px 115px #FFF, 
+      50px 115px #FFF, 55px 115px #FFF, 
+      60px 115px #FFF;
+    }
+  }
+  @keyframes sun-lights {
+    0% {
+      border: 15px dashed var(--page-bg-color);
+    }
+    20% {
+      border: 10px dotted var(--page-bg-color);
+    }
+    40% {
+      border: 15px dashed var(--page-bg-color);
+    }
+    60% {
+      border: 10px dotted var(--page-bg-color);
+    } 
+    70% {
+      border: 20px dashed var(--page-bg-color);
+    }
+    90% {    
+      border: 10px dotted var(--page-bg-color);
+    }
+    100% {
+      border: 15px dashed var(--page-bg-color);
+    }
+  }
+  

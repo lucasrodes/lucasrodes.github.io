@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"  class=>
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,17 +9,39 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/slider.css">
   {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
   <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
 
   <script src="{{ site.baseurl }}/scripts/jquery.js"></script>
+  <!-- <script src="{{ site.baseurl }}/scripts/mode-switcher.js"></script> -->
+  <script src="{{ site.baseurl }}/scripts/toggle-theme.js"></script>
   <link rel="canonical" href="{{ site.url }}" />
 </head>
 <body>
   <article>
-   <div class="container">
+   <div class="container"> 
     {{ content }}
-    </div>
+    <footer>
+      <hr>
+      <div class="footer">
+        <div>
+          <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>&nbsp;&nbsp;
+          <a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;
+          <a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>&nbsp;&nbsp;
+          <a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>
+        </div>
+        <div>
+          <label id="switch" class="switch">
+            <input type="checkbox" onchange="toggleTheme()" id="slider">
+            <span class="slider round"></span>
+          </label>
+        </div>
+      </div>
+      <!-- <a id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a> -->
+    </footer>  
+  </div>
+    
   </article>
 <script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
 </body>
