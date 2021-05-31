@@ -1,7 +1,8 @@
 # Site settings
 title: Lucas Rodés-Guirao
 tag_text: 'Lucas Rodés-Guirao'
-description: "Welcome to my personal page! Thanks for passing by."
+description: "Welcome to my personal page! I am a Software developer and data scientist focused on machine learning and
+open-source projects. I am currently working at Our World in Data."
 url: "http://127.0.0.1:4000"
 baseurl: ""
 
