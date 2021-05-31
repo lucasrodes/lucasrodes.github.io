@@ -16,6 +16,7 @@ FFC9B9 - pink
   --darkeryellow: #d69b2c;
   --lightpink: #fcf4f1;
   --darkpink: #fdd0c2;
+  --darkerpink: #f8a990;
   --white: #f0f0f0;
   --black: #02020A;
   --gray: #2B303A;
@@ -40,8 +41,8 @@ FFC9B9 - pink
   --others: var(--gray1);
 }
 .theme-dark {
-  --title: var(--lightyellow);
-  --link: var(--darkyellow);
+  --title: var(--darkpink);
+  --link: var(--darkerpink);
   --background: var(--gray);
   --link-hover: var(--darkgreen);
   --text: var(--gray15);
