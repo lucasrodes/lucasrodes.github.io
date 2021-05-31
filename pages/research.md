@@ -12,8 +12,8 @@ My interests lie in the fields of Machine Learning, Environmental Informatics an
 
 I am currently working on COVID-19 vaccination and testing dataset, helping creating graphs like the one below.
 
-You can find all my published articles on my personal 
-[google scholar](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en) profile page and on my [blog](https://medium.com/@lucasrg).
+Find my published articles on 
+[google scholar](https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en) and at my [blog](https://medium.com/@lucasrg).
 
 
 [> publications](publications) <br/>
