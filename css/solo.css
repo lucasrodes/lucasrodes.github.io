@@ -33,6 +33,7 @@ FFC9B9 - pink
   --link: var(--lightgreen);
   --background: var(--lightpink);
   --link-hover: var(--lightpink);
+  --link-hover-background: var(--lightgreen);
   --text: var(--gray);
   --selection: var(--lightergreen);
   --headers: var(--black);
@@ -44,7 +45,8 @@ FFC9B9 - pink
   --title: var(--lightpink);
   --link: var(--darkerpink);
   --background: var(--gray);
-  --link-hover: var(--darkgreen);
+  --link-hover: var(--lightpink);
+  --link-hover-background: var(--gray4);
   --text: var(--gray15);
   --selection: var(--gray25);
   --headers: var(--white);
@@ -245,7 +247,7 @@ a:hover, a:focus {
   /*background-color: #4C956C;
   text-decoration-color: #ffffff;*/
   color: var(--link-hover);
-  background-color: var(--link);;
+  background-color: var(--link-hover-background);;
 }
 
 h1, h2, h3, h4, h5, h6 {
