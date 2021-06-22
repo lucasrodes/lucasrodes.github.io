@@ -11,6 +11,9 @@ news &nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp; [research]
 
 
 #### 2021
+* **[Radio interview](https://delsol.uy/notoquennada/entrevistas/entrevista-a-our-world-in-data-impacto-covid-comparaciones-y-limitaciones) at No Toquen Nada** (June 2021) ---
+  Talk about our work at Our World in Data (Spanish).
+  
 * **Journal published in [Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01122-8)** (May 2021) ---
   Publication of _A global database of COVID-19 vaccinations_, which summarizes our work on the [COVID-19 vaccination dataset](https://github.com/owid/covid-19-data/tree/master/scripts/scripts/vaccinations).
 
