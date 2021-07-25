@@ -19,8 +19,6 @@ contact &nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 &nbsp;
 <a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>
 &nbsp;
-<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='fa fa-google'></i></a>
-&nbsp;
 <a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='ai ai-google-scholar ai-1x'></i></a>
 #### Our World in Data
 *mail*: lucas [at] ourworldindata [dot] org<br/>
