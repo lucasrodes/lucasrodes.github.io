@@ -20,4 +20,4 @@ Find my published articles on
 [> presentations](presentations) <br/>
 [> projects](projects) <br/>
 
-<iframe src="https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?tab=map&time=2021-05-27&country=Low+income~High+income~Upper+middle+income~Lower+middle+income" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?tab=map&country=Low+income~High+income~Upper+middle+income~Lower+middle+income" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>

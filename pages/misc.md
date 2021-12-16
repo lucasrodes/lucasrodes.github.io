@@ -26,3 +26,7 @@ I started the **Pan Ribas** project with my brother, an initiative to share visu
 ![](../images/pa.png)
 
 [*> Instagram*](https://instagram.com/panribas) <br/>
+
+##### Technology
+From time to time, I enjoy doing "smart-home" mini projects with my Raspberries and unix devices. You can find some
+notes [here](notes.lcsrg.me) 

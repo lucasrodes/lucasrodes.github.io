@@ -8,13 +8,18 @@ layout: default
 [contact]({{ site.baseurl }}/pages/contact.html) &nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
 # projects
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **owid/covid-19-data** (ongoing) --- Global COVID-19 dataset. <br>
+<i class="fa fa-check-square" aria-hidden="true"></i> **Global Food Explorer** (2021 December) --- Dataset and interface to
+interact and explore food systems, using data from the [UN Food and Agriculture
+Organization](https://www.fao.org/statistics/en/). Version 1. <br>
+[[website](https://ourworldindata.org/explorers/global-food)]
+
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **owid/covid-19-data** (2020 December -) --- Global COVID-19 dataset. <br>
 [[website](https://www.ourworldindata.org/coronavirus), [github](https://github.com/owid/covid-19-data)]
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **covid19-vaccination-subnational** (ongoing) --- Centralized global COVID-19 vaccination dataset at regional level. <br>
+<i class="fa fa-check-square" aria-hidden="true"></i> **covid19-vaccination-subnational** (archived) --- Centralized global COVID-19 vaccination dataset at regional level. <br>
 [[website](https://sociepy.org/covid19-vaccination-subnational), [github](https://github.com/sociepy/covid19-vaccination-subnational)]
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **SociePy** (ongoing) --- Collaborative data science projects linked to social, environmental analysis and open data.
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **SociePy** (2021 January -) --- Collaborative data science projects linked to social, environmental analysis and open data.
 <br>
 [[website](https://sociepy.org/), [github](https://github.com/sociepy)]
 
