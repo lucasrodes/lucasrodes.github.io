@@ -2,11 +2,7 @@
 layout: default
 ---
 
-<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp; 
-[news]({{ site.baseurl }}/pages/news.html) &nbsp; projects &nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;
-[cv]({{ site.baseurl }}/pages/cv.html) &nbsp; [blog](https://medium.com/@lucasrg) &nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;
-[contact]({{ site.baseurl }}/pages/contact.html) &nbsp; [credits]({{ site.baseurl }}/pages/credits.html)<br/>
-# projects
+### projects
 
 <i class="fa fa-check-square" aria-hidden="true"></i> **Global Food Explorer** (2021 December) --- Dataset and interface to
 interact and explore food systems, using data from the [UN Food and Agriculture

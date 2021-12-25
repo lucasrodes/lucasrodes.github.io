@@ -2,11 +2,7 @@
 layout: default
 ---
 
-<a href="{{ site.baseurl }}/index.html" class="back2"><i class="fa fa-home" aria-hidden="true"></i></a> &nbsp; 
-[news]({{ site.baseurl }}/pages/news.html) &nbsp; [projects]({{ site.baseurl }}/pages/projects.html) &nbsp; [research]({{ site.baseurl }}/pages/research.html) &nbsp;
-[cv]({{ site.baseurl }}/pages/cv.html) &nbsp; [blog](https://medium.com/@lucasrg) &nbsp; [misc]({{ site.baseurl }}/pages//misc.html) &nbsp;
-[contact]({{ site.baseurl }}/pages/contact.html) &nbsp; [credits]({{ site.baseurl }}/pages/credits.html) <br/>
-# Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning
+### Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning
 
 *Supervised by [Prof. Kitamoto Asanobu](https://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/), [Prof. Xavier Giró-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro), [Prof. Josephine Sullivan](http://www.csc.kth.se/~sullivan/)*
 

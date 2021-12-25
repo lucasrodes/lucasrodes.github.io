@@ -1,17 +1,18 @@
 <!DOCTYPE html>
-<html lang="en"  class=>
+<html lang="en" class=>
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <!-- <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css"> -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/slider.css">
-  {% if site.font-awesome-include %}<link rel="stylesheet"
-  href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
+  {% if site.font-awesome-include %}
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
 
@@ -19,34 +20,67 @@
   <!-- <script src="{{ site.baseurl }}/scripts/mode-switcher.js"></script> -->
   <script src="{{ site.baseurl }}/scripts/toggle-theme.js"></script>
   <link rel="canonical" href="{{ site.url }}" />
+
 </head>
+
 <body>
   <article>
-   <div class="container"> 
-    {{ content }}
-    <footer>
-      <hr>
-      <div class="footer">
-        <div>
-          <a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter fa-1x'></i></a>&nbsp;&nbsp;
-          <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin fa-1x'></i></a>&nbsp;&nbsp;
-          <a href="http://github.com/lucasrodes"><i class='fa fa-github fa-1x'></i></a>&nbsp;&nbsp;
-          <a href="http://medium.com/@lucasrg"><i class='fa fa-medium fa-1x'></i></a>&nbsp;&nbsp;
-          <a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='ai ai-google-scholar
-          ai-1x'></i></a>&nbsp;&nbsp;
-        </div>
-        <div>
-          <label id="switch" class="switch">
-            <input type="checkbox" onchange="toggleTheme()" id="slider">
-            <span class="slider round"></span>
-          </label>
-        </div>
+    <div class="container">
+      <header>
+        <!-- <a href="/"><i class='fa fa-home fa-1x'></i></a>&nbsp;&nbsp;
+        <a href="/pages/my-work" onclick="console.log('1')"><i>my work</i></a>&nbsp;&nbsp;
+        <a href="/pages/cv"><i>cv</i></a>&nbsp;&nbsp;
+        <a href="/pages/about"><i>about me</i></a>&nbsp;&nbsp; -->
+        <ul>
+          <li><a href="/"><i class='fa fa-home fa-1x'></i></a></li>
+          <li class="dropdown">
+            <a href="/pages/my-work" onclick="console.log('1')"><i>my work</i></a>
+            <div class="dropdown-content">
+              <a href="/pages/talks-press"><i>talks and press</i></a>
+              <a href="/pages/projects"><i>projects</i></a>
+              <a href="/pages/publications"><i>publications</i></a>
+            </div>
+          </li>
+          <li class="companymenuli"><a href="/pages/cv"><i>cv</i></a></li>
+          <li class="companymenuli"><a href="/pages/about"><i>about me</i></a></li>
+        </ul>
+      </header>
+      <div>
+        {{ content }}
       </div>
-      <!-- <a id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a> -->
-    </footer>  
-  </div>
-    
+      <footer>
+        <hr>
+        <div class="footer">
+          <div>
+            <a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter fa-1x'></i></a>&nbsp;&nbsp;
+            <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin fa-1x'></i></a>&nbsp;&nbsp;
+            <a href="http://github.com/lucasrodes"><i class='fa fa-github fa-1x'></i></a>&nbsp;&nbsp;
+            <a href="http://medium.com/@lucasrg"><i class='fa fa-medium fa-1x'></i></a>&nbsp;&nbsp;
+            <a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='ai ai-google-scholar
+          ai-1x'></i></a>&nbsp;&nbsp;
+          </div>
+          <div>
+            <label id="switch" class="switch">
+              <input type="checkbox" onchange="toggleTheme()" id="slider">
+              <span class="slider round"></span>
+            </label>
+          </div>
+        </div>
+        <span class="caption"><a href="/pages/contact">contact</a></span>
+        <span class="caption">© 2021 Lucas Rodés-Guirao and <a href="/pages/credits">credits</a></span>
+        <!-- <a id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a> -->
+      </footer>
+    </div>
+
   </article>
-<script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
+  <script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
+  <script>
+    // a = document.querySelectorAll('[href="http://twitter.com/lucasrodesg"]');
+    currentLinks = document.querySelectorAll('a[href="' + window.location.pathname + '"]')
+    currentLinks.forEach(function (link) {
+      link.className += 'current-link'
+    });
+  </script>
 </body>
+
 </html>

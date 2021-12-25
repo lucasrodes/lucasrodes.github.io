@@ -2,18 +2,15 @@
 layout: default
 ---
 
-[news](./pages/news) &nbsp;&nbsp; [projects](./pages/projects) &nbsp;&nbsp; [research](./pages/research) &nbsp;&nbsp;
-[cv](./pages/cv) &nbsp;&nbsp; [blog](https://medium.com/@lucasrg) &nbsp;&nbsp; [misc](./pages/misc) &nbsp;&nbsp;
-[contact](./pages/contact) &nbsp;&nbsp; [credits]({{ site.baseurl }}/pages/credits.html)
 # lucas rodés-guirao
 ## he/him
 
-Software developer and data scientist focused on machine learning and open-source projects. Interested in Open Sciences,
-Open Data, Environmental Sciences, to name a few.
+I'm a software developer and data scientist focused on open-source projects that bring data closer to people. I'm interested in open sciences, open data, environmental sciences, health, and more.
 
 You can find me at [Our World in Data](https://ourworldindata.org), primarily working on COVID-19.
 
-[Ping me](./pages/contact) for collaborations — or to say <i>hi</i>.
+[Ping me](./pages/contact) for collaborations — or to say hi.
+
 
 <!-- <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;">test</a> -->
 
