@@ -5,7 +5,7 @@ layout: default
 # lucas rodés-guirao
 ## he/him
 
-I'm a software developer and data scientist focused on open-source projects that bring data closer to people. I'm interested in open sciences, open data, environmental sciences, health, and more.
+I'm a software developer and data scientist focused on open-source projects that bring data closer to people. I'm interested in open sciences, environmental sciences, geography, health, etc.
 
 You can find me at [Our World in Data](https://ourworldindata.org), primarily working on COVID-19.
 
