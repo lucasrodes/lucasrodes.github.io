@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# publications
+### publications
 
 
 * Mathieu, E., Ritchie, H., Ortiz-Ospina, E., Roser, M., Hasell, J., Appel, C., Giattino, C. and Rodés-Guirao, L., 2021. [A global database of COVID-19 vaccinations. Nature Human Behaviour, pp.1-7.](https://www.nature.com/articles/s41562-021-01122-8)

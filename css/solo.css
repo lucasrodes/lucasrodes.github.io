@@ -536,7 +536,7 @@ details:hover {
 
 
 /* MENU */
-ul {
+header ul {
   list-style-type: none;
   margin: 10;
   padding: 0;
@@ -545,11 +545,11 @@ ul {
   /* border: 2px solid black */
 }
 
-li {
+header li {
   float: left;
 }
 
-li a, .dropbtn {
+header li a, .dropbtn {
   display: inline-block;
   color: var(--link);
   text-align: center;
@@ -557,12 +557,12 @@ li a, .dropbtn {
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+header li a:hover, .dropdown:hover .dropbtn {
   background-color: var(--link-hover-background);
   color: var(--link-hover);
 }
 
-li.dropdown {
+header li.dropdown {
   display: inline-block;
 }
 
