@@ -65,6 +65,21 @@ layout: default
 </details>
 
 
+<!-- whatstk -->
+<details closed>
+<summary>
+  <b>
+    Exploring WhatsApp data - Analyze your WhatsApp chat data using Python
+  </b>
+    <span class="caption"> (blog post, 2020 June) </span>
+</summary>
+  <p>
+    Presentation to the public of python library whatstk on <i>Towards Data Science</i> blog. <br>
+    [<a href="https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d">article</a>]
+  </p> 
+</details>
+
+
 <!-- Master thesis -->
 <details closed>
 <summary>
@@ -82,6 +97,21 @@ layout: default
       <li><i class="fa-li fa fa-check-square-o"></i> 6th July 2018 at Universitat Politècnica de Catalunya, Campus Nord room D5-007 (Barcelona, Catalonia/Spain).</li>
       <li><i class="fa-li fa fa-check-square-o"></i>14th June 2018 at KTH Royal Institute of Technology (Stockholm, Sweden).</li>
     </ul>
+</details>
+
+
+<!-- Nikkei -->
+<details closed>
+<summary>
+  <b>
+    台風データベースが人気　情報の活用法突き詰め：北本 朝展
+  </b>
+    <span class="caption"> (press, 2018 April) [Japanese]</span>
+</summary>
+  <p>
+    Interview to Prof. Kitamoto-sensei in <i>Nikkei Science</i> about the Digital Typhoon project. <br>
+    [<a href="http://www.nikkei-science.com/201804_014.html">article</a>, <a href="http://digital-typhoon.org">digital typhoon</a>]
+  </p> 
 </details>
 
 
