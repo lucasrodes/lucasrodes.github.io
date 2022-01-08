@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# my work
+# work
 My interests lie in the fields of Machine Learning, Environmental Informatics and Social Sciences. Most of the work I do is open source.
 
 I am currently working on a global COVID-19 dataset, helping produce charts like the one below.

@@ -12,7 +12,7 @@ layout: default
     Radio interview
 
   </b>
-  <span class="caption"> (press, 2021 November) [Catalan] </span>
+  <span class="caption"> [2021, press, Catalan] </span>
 </summary>
   <p>
     Live interview in <i>Catalunya Informació</i>, the catalan public 24h-news radio station, to review the raise in cases in Europe. <br>
@@ -26,7 +26,7 @@ layout: default
   <b>
       'Our World in Data': ¿El mundo va a mejor o a peor?
   </b>
-  <span class="caption"> (press, 2021 July) [Spanish] </span>
+  <span class="caption"> [2021, press, Spanish] </span>
 </summary>
   <p>
     Press article (in Spanish) at <i>Crónica Global</i> about my work at Our World in Data during the COVID-19 pandemic. <br>
@@ -41,7 +41,7 @@ layout: default
   <b>
     Entrevista a Our World in Data: impacto covid, comparaciones y limitaciones
   </b>
-    <span class="caption"> (press, 2021 June) [Spanish] </span>
+    <span class="caption"> [2021, press, Spanish] </span>
 </summary>
   <p>
     Radio interview at <i>No Toquen nada</i>, radio show by <i>Del Sol FM</i>, about our work at Our World in Data and how we have adapted to operate with more dynamic data such as COVID-19. <br>
@@ -56,7 +56,7 @@ layout: default
   <b>
     Fact check: India's COVID-19 surge not connected to vaccinations
   </b>
-    <span class="caption"> (press, 2021 May) [Spanish] </span>
+    <span class="caption"> [2021, press, Spanish] </span>
 </summary>
   <p>
     Brief intervention in a <i>USA Today</i> article to fact check the effectivity of the vaccinations against COVID-19. <br>
@@ -71,7 +71,7 @@ layout: default
   <b>
     Exploring WhatsApp data - Analyze your WhatsApp chat data using Python
   </b>
-    <span class="caption"> (blog post, 2020 June) </span>
+    <span class="caption"> [2020, blog post, English] </span>
 </summary>
   <p>
     Presentation to the public of python library whatstk on <i>Towards Data Science</i> blog. <br>
@@ -86,7 +86,7 @@ layout: default
   <b>
     Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning
   </b>
-    <span class="caption"> (talk, 2018) </span>
+    <span class="caption"> [2048, talk, English] </span>
 </summary>
   <p>
     Defense of my master thesis after a 6 month stay at the <i>National Institute of Informatics</i>. <br>
@@ -106,7 +106,7 @@ layout: default
   <b>
     台風データベースが人気　情報の活用法突き詰め：北本 朝展
   </b>
-    <span class="caption"> (press, 2018 April) [Japanese]</span>
+    <span class="caption"> [2018, press, Japanese]</span>
 </summary>
   <p>
     Interview to Prof. Kitamoto-sensei in <i>Nikkei Science</i> about the Digital Typhoon project. <br>
@@ -121,7 +121,7 @@ layout: default
   <b>
     Typhoon image prediction using deep learning and AI
   </b>
-    <span class="caption"> (talk, 2018) </span>
+    <span class="caption"> [2018, talk, English] </span>
 </summary>
   <p>
     Presentation at the <i>Yokohama National University</i> of results obtained using AI for Digital Typhoon project. <br>

@@ -3,17 +3,14 @@ layout: default
 ---
 
 
-# about me
-
-#### Contact
-Reach me via mail <i>hi [at] lcsrg [dot] me</i> or connect with me via social nets <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
-<a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>
-<a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>
-<a href="https://scholar.google.es/citations?user=5KPcE6QAAAAJ&hl=en"><i class='ai ai-google-scholar ai-1x'></i></a>.
-
-For Our World in Data related topics, please contact me at [lucas@ourworldindata.org](mailto:lucas@ourworldindata.org).
+# about
 
 
+* Currently at [Our World in Data](https://ourworldindata.org).
+* Previously: [eDreams ODIGEO](https://www.edreamsodigeo.com/), [NII](https://www.nii.ac.jp/en/), [Tracy](https://www.linkedin.com/company/tracy).
+* Telecom/Electrical Engineer. Studied at [KTH](https://www.kth.se), [UPC](https://www.upc.edu/en), [KIT](https://www.kit.edu/english). <br/><br/>
+
+[> download cv](https://lcsrg.me/resume/cv.pdf) <br>
 [> more about me](/pages/misc) <br>
 [> blog](http://medium.com/@lucasrg)
 

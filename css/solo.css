@@ -515,10 +515,12 @@ footer {
 }
 
 .current-link {
-  color:var(--gray2) !important;
+  /* color:var(--gray2) !important; */
+  text-decoration: underline !important;
 }
 .current-link:hover {
-  color :var(--gray2) !important;
+  /* color :var(--gray2) !important; */
+  text-decoration: underline !important;
   /* background-color: var(--background) !important;
   pointer-events: none; */
 }
@@ -528,6 +530,8 @@ details {
 }
 details:hover {
   background-color: var(--boxes);
+  cursor: pointer;
+
 }
 
 .caption {
@@ -597,3 +601,15 @@ header li.dropdown {
 .fa, .ai {
   border: 1px solid red;
 } */
+
+
+summary::marker {
+  color: var(--link);
+  /* content: "+"; */
+  /* font-size: 0.75em; */
+}
+
+/* details[open] > summary::marker {
+  content: '- ';
+} */
+

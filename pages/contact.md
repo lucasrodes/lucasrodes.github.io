@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Contact
+# contact
 Reach me via mail <i>hi [at] lcsrg [dot] me</i> or connect with me via social nets <a href="http://linkedin.com/in/lucasrodes"><i class='fa fa-linkedin'></i></a>
 <a href="http://twitter.com/lucasrodesg"><i class='fa fa-twitter'></i></a>
 <a href="http://github.com/lucasrodes"><i class='fa fa-github'></i></a>
