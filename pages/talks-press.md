@@ -4,6 +4,23 @@ layout: default
 
 ### talks and press
 
+<!-- URUGUAY 2 -->
+<details closed>
+<summary>
+  <b>
+
+    El trabajo de Our World in Data más allá del covid
+
+  </b>
+  <span class="caption"> [2022, press, Spanish] </span>
+</summary>
+  <p>
+    Live radio interview at <i>No Toquen nada</i>, radio show by <i>Del Sol FM</i>, reflecting on our work at Our World in Data during the Pandemic and other projects we are currently working on. <br>
+    [<a href="https://delsol.uy/notoquennada/entrevistas/el-trabajo-de-our-world-in-data-mas-alla-del-covid">radio interview</a>] <br>
+  </p> 
+</details>
+
+
 <!-- CAT RADIO -->
 <details closed>
 <summary>
