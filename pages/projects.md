@@ -4,6 +4,16 @@ layout: default
 
 ### projects
 
+<i class="fa fa-check-square" aria-hidden="true"></i> **Five key findings from the 2022 UN Population Prospects** (2022
+July) --- Article highlighting five key findings from latest data from the [United Nations World Population
+Prospects (2022)](https://population.un.org/wpp/). <br>
+[[website](https://ourworldindata.org/world-population-update-2022)]
+
+<i class="fa fa-check-square" aria-hidden="true"></i> **Population & Demography Data Explorer** (2022 July) --- Interface to
+interact and explore population and demography indicators, using data from the [United Nations World Population
+Prospects (2022)](https://population.un.org/wpp/). <br>
+[[website](https://ourworldindata.org/explorers/population-and-demography)]
+
 <i class="fa fa-check-square" aria-hidden="true"></i> **Global Food Explorer** (2021 December) --- Dataset and interface to
 interact and explore food systems, using data from the [UN Food and Agriculture
 Organization](https://www.fao.org/statistics/en/). Version 1. <br>
