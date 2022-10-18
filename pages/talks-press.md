@@ -4,6 +4,38 @@ layout: default
 
 ### talks and press
 
+<!-- BAHAMAS -->
+<details closed>
+<summary>
+  <b>
+
+    Pacific Data Hub Talanoa: The Power of Data Visualisation
+
+  </b>
+  <span class="caption"> [2022, talk, English/French] </span>
+</summary>
+  <p>
+    Talk about the power of visualisation and how the brain visualises data to best practices when making a data visualisation. <br>
+    [<a href="https://www.spc.int/events/pacific-data-hub-talanoa-the-power-of-data-visualisation">Event</a>] <br>
+  </p> 
+</details>
+
+<!-- BAHAMAS -->
+<details closed>
+<summary>
+  <b>
+
+    Our World in Data: EA and pandemics
+
+  </b>
+  <span class="caption"> [2022, talk, English] </span>
+</summary>
+  <p>
+    Talk about the role of Our World in Data with Effective Altruism and pandemics. We review our vision and our experience during the pandemic of COVID-19. The talk was held in Nassau (Bahamas) during the <a href="https://forum.effectivealtruism.org/posts/sdjcH7KAxgB328RAb/ftx-ea-fellowships">FTX EA Fellowship program</a>, where I participated as a visitor. <br>
+    [<a href="https://ftxfoundation.org/">FTX Foundation</a>] <br>
+  </p> 
+</details>
+
 <!-- URUGUAY 2 -->
 <details closed>
 <summary>
@@ -20,7 +52,6 @@ layout: default
   </p> 
 </details>
 
-
 <!-- CAT RADIO -->
 <details closed>
 <summary>
@@ -36,7 +67,6 @@ layout: default
   </p> 
 </details>
 
-
 <!-- CRONICA GLOBAL -->
 <details closed>
 <summary>
@@ -50,7 +80,6 @@ layout: default
     [<a href="https://cronicaglobal.elespanol.com/pensamiento/espejos-de-hoy/our-world-in-data-el-mundo-va-mejor-peor_510594_102.html">article</a>]
   </p> 
 </details>
-
 
 <!-- URUGUAY -->
 <details closed>
@@ -66,7 +95,6 @@ layout: default
   </p> 
 </details>
 
-
 <!-- USA Today -->
 <details closed>
 <summary>
@@ -81,7 +109,6 @@ layout: default
   </p> 
 </details>
 
-
 <!-- whatstk -->
 <details closed>
 <summary>
@@ -95,7 +122,6 @@ layout: default
     [<a href="https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d">article</a>]
   </p> 
 </details>
-
 
 <!-- Master thesis -->
 <details closed>
@@ -116,7 +142,6 @@ layout: default
     </ul>
 </details>
 
-
 <!-- Nikkei -->
 <details closed>
 <summary>
@@ -130,7 +155,6 @@ layout: default
     [<a href="http://www.nikkei-science.com/201804_014.html">article</a>, <a href="http://digital-typhoon.org">digital typhoon</a>]
   </p> 
 </details>
-
 
 <!-- Master thesis checkpoint -->
 <details closed>
@@ -159,7 +183,7 @@ layout: default
   <p>
     Description.
     📁 [<a href="">material 1</a>, <a href="">material 2</a>]
-  </p> 
+  </p>
   <b>Sessions</b>
     <ul class="fa-ul">
       <li><i class="fa-li fa fa-check-square-o"></i> 6th July 2018 at Universitat Politècnica de Catalunya, Campus Nord room D5-007 (Barcelona, Catalonia/Spain).</li>
