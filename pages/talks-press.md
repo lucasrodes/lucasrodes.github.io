@@ -16,7 +16,7 @@ layout: default
 </summary>
   <p>
     Talk about the power of visualisation and how the brain visualises data to best practices when making a data visualisation. <br>
-    [<a href="https://www.spc.int/events/pacific-data-hub-talanoa-the-power-of-data-visualisation">Event</a>] <br>
+    [<a href="https://pacificcommunity.cmail19.com/t/j-l-vhrkjky-dijdsyuhr-r/">Recording</a>, <a href="https://www.spc.int/events/pacific-data-hub-talanoa-the-power-of-data-visualisation">Event</a>] <br>
   </p> 
 </details>
 
