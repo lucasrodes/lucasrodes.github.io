@@ -4,7 +4,7 @@ layout: default
 
 ### talks and press
 
-<!-- BAHAMAS -->
+<!-- TALANOA -->
 <details closed>
 <summary>
   <b>
@@ -20,7 +20,7 @@ layout: default
   </p> 
 </details>
 
-<!-- BAHAMAS -->
+<!-- BAHAMAS
 <details closed>
 <summary>
   <b>
@@ -35,7 +35,8 @@ layout: default
     [<a href="https://ftxfoundation.org/">FTX Foundation</a>] <br>
   </p> 
 </details>
-
+ -->
+ 
 <!-- URUGUAY 2 -->
 <details closed>
 <summary>
