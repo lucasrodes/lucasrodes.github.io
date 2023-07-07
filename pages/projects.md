@@ -4,6 +4,17 @@ layout: default
 
 ### projects
 
+<i class="fa fa-check-square" aria-hidden="true"></i> _Mental health topic page_ (March 2023) --- Mental health is an essential part of people’s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.
+Learn more about this topic in this topic page. <br>
+[[topic page](https://ourworldindata.org/mental-health)]
+
+<i class="fa fa-check-square" aria-hidden="true"></i> _Suicides topic page_ (March 2023) --- Every death from suicide is a tragedy. But research shows that its rates can be reduced with greater understanding and support.
+Learn more about this topic in this topic page. <br>
+[[topic page](https://ourworldindata.org/suicide)]
+
+<i class="fa fa-check-square" aria-hidden="true"></i> _Ozone layer topic page_ (March 2023) --- The ozone layer plays a vital role in making the planet habitable for us and other species. High in the atmosphere – between 10 to 50 kilometers above the earth’s surface – the ozone layer absorbs most of the sun’s ultraviolet radiation. Learn more about this topic in this topic page. <br>
+[[topic page](https://ourworldindata.org/ozone-layer)]
+
 <i class="fa fa-check-square" aria-hidden="true"></i> _Five key findings from the 2022 UN Population Prospects_ (2022
 Jul) --- Article highlighting five key findings from latest data from the [United Nations World Population
 Prospects (2022)](https://population.un.org/wpp/). <br>
