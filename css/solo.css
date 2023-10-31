@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   color: var(--headers);
   text-rendering: optimizeLegibility;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   line-height: 1.2
 }
 

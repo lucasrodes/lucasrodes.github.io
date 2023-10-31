@@ -4,15 +4,20 @@ layout: default
 
 ### projects
 
-<i class="fa fa-check-square" aria-hidden="true"></i> _Mental health topic page_ (March 2023) --- Mental health is an essential part of people’s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.
+<i class="fa fa-check-square" aria-hidden="true"></i> _Population Growth_ (March 2023) --- Population growth is one of the most important topics we cover at Our World in Data.
+Learn more about this topic in this topic page. <br>
+[[topic page](https://ourworldindata.org/population-growth)]
+
+
+<i class="fa fa-check-square" aria-hidden="true"></i> _Mental Health_ (March 2023) --- Mental health is an essential part of people’s lives and society. Poor mental health affects our well-being, our ability to work, and our relationships with friends, family, and community.
 Learn more about this topic in this topic page. <br>
 [[topic page](https://ourworldindata.org/mental-health)]
 
-<i class="fa fa-check-square" aria-hidden="true"></i> _Suicides topic page_ (March 2023) --- Every death from suicide is a tragedy. But research shows that its rates can be reduced with greater understanding and support.
+<i class="fa fa-check-square" aria-hidden="true"></i> _Suicides_ (March 2023) --- Every death from suicide is a tragedy. But research shows that its rates can be reduced with greater understanding and support.
 Learn more about this topic in this topic page. <br>
 [[topic page](https://ourworldindata.org/suicide)]
 
-<i class="fa fa-check-square" aria-hidden="true"></i> _Ozone layer topic page_ (March 2023) --- The ozone layer plays a vital role in making the planet habitable for us and other species. High in the atmosphere – between 10 to 50 kilometers above the earth’s surface – the ozone layer absorbs most of the sun’s ultraviolet radiation. Learn more about this topic in this topic page. <br>
+<i class="fa fa-check-square" aria-hidden="true"></i> _Ozone Layer_ (March 2023) --- The ozone layer plays a vital role in making the planet habitable for us and other species. High in the atmosphere – between 10 to 50 kilometers above the earth’s surface – the ozone layer absorbs most of the sun’s ultraviolet radiation. Learn more about this topic in this topic page. <br>
 [[topic page](https://ourworldindata.org/ozone-layer)]
 
 <i class="fa fa-check-square" aria-hidden="true"></i> _Five key findings from the 2022 UN Population Prospects_ (2022
@@ -24,6 +29,9 @@ Prospects (2022)](https://population.un.org/wpp/). <br>
 interact and explore population and demography indicators, using data from the [United Nations World Population
 Prospects (2022)](https://population.un.org/wpp/). <br>
 [[website](https://ourworldindata.org/explorers/population-and-demography)]
+
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _ETL_ (2022 Aug -- present) --- Maintenance and development of an internal tool to process and catalog datasets at Our World in Data. <br>
+[[docs](https://docs.owid.io/projects/etl), [github](https://github.com/owid/etl)]
 
 <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _instagram/ourworldindata_ (2022 Mar -- present) --- Create and edit content for Our World in Data's Instagram account. <br>
 [[website](https://www.instagram.org/ourworldindata)]
