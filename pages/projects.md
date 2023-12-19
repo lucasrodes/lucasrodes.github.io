@@ -12,7 +12,7 @@ layout: default
 [[topic page](https://ourworldindata.org/life-expectancy)]
 
 
-<i class="fa fa-check-square" aria-hidden="true"></i> _gandemics_ (2023 Nov) --- data and research on pandemics in history and how we can reduce their risk in the future. <br>
+<i class="fa fa-check-square" aria-hidden="true"></i> _pandemics_ (2023 Nov) --- data and research on pandemics in history and how we can reduce their risk in the future. <br>
 [[topic page](https://ourworldindata.org/pandemics)]
 
 
