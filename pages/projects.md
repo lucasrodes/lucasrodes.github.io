@@ -4,7 +4,21 @@ layout: default
 
 ### projects
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _war and peace_ (2023 Dec) --- data, visualizations, and writing on how common war and peace are between and within countries, and how this has changed over time. <br>
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _etl_ (2022 Aug -- present) --- maintenance and development of an internal tool to process and catalog datasets at Our World in Data. <br>
+[[docs](https://docs.owid.io/projects/etl), [github](https://github.com/owid/etl)]
+
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _instagram/ourworldindata_ (2022 Mar -- present) --- create and edit content for Our World in Data's Instagram account. <br>
+[[instagram](https://www.instagram.com/ourworldindata), [threads](https://www.threads.net/@ourworldindata)]
+
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _owid/covid-19-data_ (2020 Dec -- present) --- global COVID-19 dataset. <br>
+[[website](https://www.ourworldindata.org/coronavirus), [github](https://github.com/owid/covid-19-data)]
+
+
+<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _whatstk_ (2016 Dec -- present) --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0
+license. <br> [[webapp](https://whatstk.streamlit.app/), [documentation](https://whatstk.lcsrg.me/), [github](https://github.com/lucasrodes/whatstk), [article](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)]
+
+
+<i class="fa fa-check-square" aria-hidden="true"></i> _war and peace_ (2023 Dec) --- data, visualizations, and writing on how common war and peace are between and within countries, and how this has changed over time. <br>
 [[topic page](https://ourworldindata.org/war-and-peace)]
 
 
@@ -42,29 +56,19 @@ interact and explore population and demography indicators, using data from the [
 Prospects (2022)](https://population.un.org/wpp/). <br>
 [[website](https://ourworldindata.org/explorers/population-and-demography)]
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _etl_ (2022 Aug -- present) --- maintenance and development of an internal tool to process and catalog datasets at Our World in Data. <br>
-[[docs](https://docs.owid.io/projects/etl), [github](https://github.com/owid/etl)]
-
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _instagram/ourworldindata_ (2022 Mar -- present) --- create and edit content for Our World in Data's Instagram account. <br>
-[[website](https://www.instagram.org/ourworldindata)]
 
 <i class="fa fa-check-square" aria-hidden="true"></i> _global food explorer_ (2021 Dec) --- dataset and interface to
 interact and explore food systems, using data from the [UN Food and Agriculture
 Organization](https://www.fao.org/statistics/en/). Version 1. <br>
 [[website](https://ourworldindata.org/explorers/global-food)]
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _owid/covid-19-data_ (2020 Dec -- present) --- global COVID-19 dataset. <br>
-[[website](https://www.ourworldindata.org/coronavirus), [github](https://github.com/owid/covid-19-data)]
-
 <i class="fa fa-check-square" aria-hidden="true"></i> _covid19-vaccination-subnational_ (archived) --- centralized global COVID-19 vaccination dataset at regional level. <br>
 [[website](https://sociepy.org/covid19-vaccination-subnational), [github](https://github.com/sociepy/covid19-vaccination-subnational)]
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _sociepy_ (2021 Jan -- present) --- collaborative data science projects linked to social, environmental analysis and open data.
+<i class="fa-solid fa-pause" aria-hidden="true"></i> _sociepy_ (2021 Jan -- Jan 2024) --- collaborative data science projects linked to social, environmental analysis and open data.
 <br>
 [[website](https://sociepy.org/), [github](https://github.com/sociepy)]
 
-<i class="fa fa-spinner fa-spin" aria-hidden="true"></i> _whatstk_ (2016 Dec -- present) --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0
-license. <br> [[website](https://whatstk.lcsrg.me/), [github](https://github.com/lucasrodes/whatstk), [article](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)]
 
 <i class="fa fa-check-square"></i> _pyphoon_ (2018 May) --- python interface to the Digital Typhoon dataset. <br> [[website](http://lcsrg.me/pyphoon), [github](https://github.com/lucasrodes/pyphoon)]
 
