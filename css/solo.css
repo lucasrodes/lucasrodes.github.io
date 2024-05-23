@@ -8,14 +8,14 @@ FFC9B9 - pink
 /* @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);*/
 
 :root {
-  --darkgreen: #2C6E49;
-  --lightgreen: #4c956c;
-  --lightergreen: #4c956c;
+  --darkgreen: #205537;
+  --lightgreen: #245e3d;
+  --lightergreen: #3e7e5a;
   --lightyellow: #f7ddaf;
   --darkyellow: #f5cf8e;
   --darkeryellow: #d69b2c;
   --lightpink: #fae5df;
-  --darkpink: #f8d3c3;
+  --darkpink: #f6d7ca;
   --darkerpink: #fabfae;
   --white: #f0f0f0;
   --black: #02020A;
@@ -105,6 +105,7 @@ html[data-theme="dark"] {
   }
 } */
 
+
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
@@ -154,7 +155,7 @@ html[data-theme="dark"] {
 @font-face {
   font-family: 'Noto Sans';
   font-style: italic;
-  font-weight: 400;
+  font-weight: 200;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/notosans/v12/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW1IPrie.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
@@ -184,7 +185,7 @@ html[data-theme="dark"] {
 }
 
 i {
-  font-weight: 200;
+  font-weight: 400;
 }
 /* Selection text*/
 ::selection {
@@ -227,9 +228,11 @@ body {
 a {
   color: var(--link); /* From http://clrs.cc #008011 */
   text-decoration: none;
-  font-family: 'Noto Sans', sans-serif;
-  font-weight: 100;
-  font-style: italic;
+  /* font-family: 'Noto Sans', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  /* font-style: italic; */
+  text-decoration: underline;
   font-display: swap;
   /* background:
      linear-gradient(
@@ -242,7 +245,7 @@ a {
   text-decoration: none;
   -webkit-transition: background-size 0.5s, color 0.5s;
   transition: background-size .5s, color 0.5s; */
-  padding: 0.2rem;
+  /* padding: 0.2rem; */
 }
 
 a:hover, a:focus {
@@ -259,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   color: var(--headers);
   text-rendering: optimizeLegibility;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   line-height: 1.2
 }
 
@@ -333,11 +336,13 @@ h4, h5, h6 {
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
   margin-bottom: 1.5rem;
-  font-family: 'Noto Sans', sans-serif;
+  /* font-family: 'Noto Sans', sans-serif; */
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6{
-  font-family: 'Averia Serif Libre', sans-serif;
+  /* font-family: 'Averia Serif Libre', sans-serif; */
+  font-family: 'Jersey 15', sans-serif;
 }
 
 ul, ol {
@@ -575,8 +580,9 @@ header li.dropdown {
   position: absolute;
   background-color: var(--boxes);
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  /* box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2); */
   z-index: 1;
+  border: 4px solid var(--background);
 }
 
 .dropdown-content a {
