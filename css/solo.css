@@ -249,7 +249,7 @@ a {
 }
 
 a:hover, a:focus {
-  text-decoration: none; /*used to use "underline"*/
+  /* text-decoration: wavy; */
   text-decoration-style: initial;
   background-size: 0.5rem;
   /*background-color: #4C956C;
