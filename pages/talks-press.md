@@ -130,7 +130,7 @@ layout: default
   <b>
     Deep learning for Digital Typhoon: Exploring a typhoon satellite image dataset using deep learning
   </b>
-    <span class="caption"> [2048, talk, English] </span>
+    <span class="caption"> [2018, talk, English] </span>
 </summary>
   <p>
     Defense of my master thesis after a 6 month stay at the <i>National Institute of Informatics</i>. <br>
