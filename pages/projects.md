@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### projects
+# projects
 
 <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **etl** (2022 Aug -- present) --- maintenance and development of an internal tool to process and catalog datasets at Our World in Data. <br>
 <i class="fa-solid fa-link"></i> [docs](https://docs.owid.io/projects/etl), [github](https://github.com/owid/etl) --- <i class="fa-solid fa-location-dot"></i> owid

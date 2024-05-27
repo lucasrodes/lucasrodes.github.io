@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### talks and press
+# talks and press
 
 <!-- TALANOA -->
 <details closed>
@@ -16,7 +16,7 @@ layout: default
 </summary>
   <p>
     Talk about the power of visualisation and how the brain visualises data to best practices when making a data visualisation. <br>
-    [<a href="https://pacificcommunity.cmail19.com/t/j-l-vhrkjky-dijdsyuhr-r/">Recording</a>, <a href="https://www.spc.int/events/pacific-data-hub-talanoa-the-power-of-data-visualisation">Event</a>] <br>
+    <i class="fa-solid fa-link"></i> <a href="https://pacificcommunity.cmail19.com/t/j-l-vhrkjky-dijdsyuhr-r/">Recording</a>, <a href="https://www.spc.int/events/pacific-data-hub-talanoa-the-power-of-data-visualisation">Event</a> <br>
   </p> 
 </details>
 
@@ -33,10 +33,10 @@ layout: default
   <p>
     Talk about the role of Our World in Data with Effective Altruism and pandemics. We review our vision and our experience during the pandemic of COVID-19. The talk was held in Nassau (Bahamas) during the <a href="https://forum.effectivealtruism.org/posts/sdjcH7KAxgB328RAb/ftx-ea-fellowships">FTX EA Fellowship program</a>, where I participated as a visitor. <br>
     [<a href="https://ftxfoundation.org/">FTX Foundation</a>] <br>
-  </p> 
+  </p>
 </details>
  -->
- 
+
 <!-- URUGUAY 2 -->
 <details closed>
 <summary>
@@ -49,7 +49,7 @@ layout: default
 </summary>
   <p>
     Live radio interview at <i>No Toquen nada</i>, radio show by <i>Del Sol FM</i>, reflecting on our work at Our World in Data during the Pandemic and other projects we are currently working on. <br>
-    [<a href="https://delsol.uy/notoquennada/entrevistas/el-trabajo-de-our-world-in-data-mas-alla-del-covid">radio interview</a>] <br>
+    <i class="fa-solid fa-link"></i> <a href="https://delsol.uy/notoquennada/entrevistas/el-trabajo-de-our-world-in-data-mas-alla-del-covid">radio interview</a> <br>
   </p> 
 </details>
 
@@ -78,7 +78,7 @@ layout: default
 </summary>
   <p>
     Press article (in Spanish) at <i>Crónica Global</i> about my work at Our World in Data during the COVID-19 pandemic. <br>
-    [<a href="https://cronicaglobal.elespanol.com/pensamiento/espejos-de-hoy/our-world-in-data-el-mundo-va-mejor-peor_510594_102.html">article</a>]
+    <i class="fa-solid fa-link"></i> <a href="https://cronicaglobal.elespanol.com/pensamiento/espejos-de-hoy/our-world-in-data-el-mundo-va-mejor-peor_510594_102.html">article</a>
   </p> 
 </details>
 
@@ -92,7 +92,7 @@ layout: default
 </summary>
   <p>
     Radio interview at <i>No Toquen nada</i>, radio show by <i>Del Sol FM</i>, about our work at Our World in Data and how we have adapted to operate with more dynamic data such as COVID-19. <br>
-    [<a href="https://delsol.uy/notoquennada/entrevistas/entrevista-a-our-world-in-data-impacto-covid-comparaciones-y-limitaciones">radio interview</a>]
+    <i class="fa-solid fa-link"></i> <a href="https://delsol.uy/notoquennada/entrevistas/entrevista-a-our-world-in-data-impacto-covid-comparaciones-y-limitaciones">radio interview</a>
   </p> 
 </details>
 
@@ -106,7 +106,7 @@ layout: default
 </summary>
   <p>
     Brief intervention in a <i>USA Today</i> article to fact check the effectivity of the vaccinations against COVID-19. <br>
-    [<a href="https://eu.usatoday.com/story/news/factcheck/2021/05/11/fact-check-indias-covid-19-surge-not-connected-vaccinations/4988690001/">article</a>]
+    <i class="fa-solid fa-link"></i> <a href="https://eu.usatoday.com/story/news/factcheck/2021/05/11/fact-check-indias-covid-19-surge-not-connected-vaccinations/4988690001/">article</a>
   </p> 
 </details>
 
@@ -120,7 +120,7 @@ layout: default
 </summary>
   <p>
     Presentation to the public of python library whatstk on <i>Towards Data Science</i> blog. <br>
-    [<a href="https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d">article</a>]
+    <i class="fa-solid fa-link"></i> <a href="https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d">article</a>
   </p> 
 </details>
 
@@ -134,7 +134,7 @@ layout: default
 </summary>
   <p>
     Defense of my master thesis after a 6 month stay at the <i>National Institute of Informatics</i>. <br>
-    [<a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1304600&dswid=-9197">thesis report</a>, <a href="/pages/tfmabstract.html">abstract</a>, <a href="https://lcsrg.me/pyphoon">pyphoon library</a>, <a href="http://digital-typhoon.org">digital typhoon</a>]
+    <i class="fa-solid fa-link"></i> <a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1304600&dswid=-9197">thesis report</a>, <a href="/pages/tfmabstract.html">abstract</a>, <a href="https://lcsrg.me/pyphoon">pyphoon library</a>, <a href="http://digital-typhoon.org">digital typhoon</a>
   </p> 
   <b>Sessions:</b>
     <ul class="fa-ul">
@@ -153,7 +153,7 @@ layout: default
 </summary>
   <p>
     Interview to Prof. Kitamoto-sensei in <i>Nikkei Science</i> about the Digital Typhoon project. <br>
-    [<a href="http://www.nikkei-science.com/201804_014.html">article</a>, <a href="http://digital-typhoon.org">digital typhoon</a>]
+    <i class="fa-solid fa-link"></i> <a href="http://www.nikkei-science.com/201804_014.html">article</a>, <a href="http://digital-typhoon.org">digital typhoon</a>
   </p> 
 </details>
 
@@ -167,7 +167,7 @@ layout: default
 </summary>
   <p>
     Presentation at the <i>Yokohama National University</i> of results obtained using AI for Digital Typhoon project. <br>
-    [<a href="/files/ynu-20180425-slides.pdf">presentation slides</a>, <a href="http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html">blog post</a>, <a href="https://lcsrg.me/pyphoon">pyphoon library</a>, <a href="http://digital-typhoon.org">digital typhoon</a>]
+    <i class="fa-solid fa-link"></i> <a href="/files/ynu-20180425-slides.pdf">presentation slides</a>, <a href="http://blog.livedoor.jp/soraynu-kaze/archives/51539929.html">blog post</a>, <a href="https://lcsrg.me/pyphoon">pyphoon library</a>, <a href="http://digital-typhoon.org">digital typhoon</a>
   </p>
     <b>Sessions:</b>
       <ul class="fa-ul">

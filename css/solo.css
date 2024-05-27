@@ -8,13 +8,13 @@ FFC9B9 - pink
 /* @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);*/
 
 :root {
-  --darkgreen: #205537;
-  --lightgreen: #245e3d;
+  --darkgreen: #153e28;
+  --lightgreen: #1a4b2f;
   --lightergreen: #3e7e5a;
   --lightyellow: #f7ddaf;
   --darkyellow: #f5cf8e;
   --darkeryellow: #d69b2c;
-  --lightpink: #f6eeea;
+  --lightpink: #f9f5f3;
   /* --lightpink: #fae5df; */
   --darkpink: #f5e1d8;
   --darkerpink: #fabfae;
@@ -301,7 +301,7 @@ h2 {
   font-size: 1rem;
   font-weight: 500;
   margin-bottom: 1rem;
-  color: var();
+  color: var(--title);  
   text-align: left;
   /* margin-right: -4rem; */
 }
@@ -319,6 +319,7 @@ h3 {
   /* margin: 2rem -2rem 1.75rem 0rem; */
   margin-top: 2rem;
   font-size: 1.75rem;
+  color: var(--title);  
 }
 
 @media (min-width: 30rem) {
@@ -326,6 +327,7 @@ h3 {
     margin-top: 0rem;
     font-size: 2rem;
     margin-bottom: 1.5rem;
+    color: var(--title);  
   }
 }
 
