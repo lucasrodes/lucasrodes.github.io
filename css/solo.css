@@ -471,6 +471,12 @@ pre > code {
 	vertical-align: middle;
 }
 
+/* Navigation menu */
+.nav-section {
+  font-family: 'Jersey 15';
+  font-size: 1.25rem;
+}
+
 /* Set an optional width for your button wrappers */
 .social span {
 	display: inline-block;
@@ -524,11 +530,13 @@ footer {
 
 .current-link {
   /* color:var(--gray2) !important; */
-  text-decoration: underline !important;
+  text-decoration:underline !important;
+  /* font-weight: 800 !important; */
 }
 .current-link:hover {
   /* color :var(--gray2) !important; */
   text-decoration: underline !important;
+  /* font-weight: 800 !important; */
   /* background-color: var(--background) !important;
   pointer-events: none; */
 }
