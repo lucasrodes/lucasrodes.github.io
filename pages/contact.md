@@ -12,4 +12,4 @@ Reach me via mail <i>hi [at] lcsrg [dot] me</i> or connect with me via social ne
 
 For _Our World in Data_ related topics, please contact me at [lucas@ourworldindata.org](mailto:lucas@ourworldindata.org).
 
-<!-- <img src="18101289.png" style="float: center;" width="33%"> -->
+<!-- <img src="lucas-drawing-2024.png" style="float: center;" width="33%"> -->

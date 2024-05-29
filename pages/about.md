@@ -12,4 +12,4 @@ layout: default
 [> more about me](/pages/misc) <br>
 [> blog](http://medium.com/@lucasrg)
 
-<!-- <img src="18101289.png" style="float: center;" width="33%"> -->
+<!-- <img src="lucas-drawing-2024.png" style="float: center;" width="33%"> -->
