@@ -6,7 +6,7 @@ layout: default
 
 ## he/him
 
-I'm a software developer and data scientist focused on open-source projects that bring data closer to people. Currently at [Our World in Data](https://ourworldindata.org).
+I'm a software developer and data scientist focused on open-source projects that bring data closer to people. Currently at [Our World in Data](https://ourworldindata.org/team/lucas-rodes-guirao).
 
 Interests: demography, global health, sustainable development, machine learning, design, etc.
 

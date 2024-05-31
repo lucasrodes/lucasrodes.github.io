@@ -216,11 +216,13 @@ i {
 }
 /* Selection text*/
 ::selection {
-  background: var(--selection); /* WebKit/Blink Browsers */
+  /* WebKit/Blink Browsers */
+  background: var(--selection);
   color: white;
 }
 ::-moz-selection {
-  background: var(--selection); /* Gecko Browsers */
+  /* Gecko Browsers */
+  background: var(--selection);
   color: white;
 }
 
@@ -252,6 +254,11 @@ body {
   }
 }
 
+/* a.fa-brands{
+  font-size: 1.2rem;
+  font-family: 'Roboto', sans-serif;
+} */
+
 a {
   color: var(--link); /* From http://clrs.cc #008011 */
   text-decoration: none;
@@ -279,6 +286,7 @@ a:hover, a:focus {
   /* text-decoration: wavy; */
   text-decoration-style: initial;
   background-size: 0.5rem;
+  /* padding: 3px; */
   /*background-color: #4C956C;
   text-decoration-color: #ffffff;*/
   color: var(--link-hover);
