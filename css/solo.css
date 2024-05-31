@@ -500,7 +500,10 @@ pre > code {
 
 /* Navigation menu */
 .nav-section {
-  font-family: 'Jersey 15';
+  /* font-family: Merriweather, sans-serif; */
+  font-family: 'Jersey 15', sans-serif;
+  /* font-family: 'Nimbus Sans', sans-serif;
+  font-weight: bold; */
   font-size: 1.25rem;
 }
 
