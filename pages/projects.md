@@ -15,7 +15,7 @@ layout: default
 
 <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> **whatstk** (2016 Dec -- present) --- whatstk is a Python module for WhatsApp chat group analysis and distributed under the GPL-3.0
 license. <br>
-<i class="fa-solid fa-link"></i> [webapp](https://whatstk.streamlit.app/), [documentation](https://whatstk.lcsrg.me/), [github](https://github.com/lucasrodes/whatstk), [article](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d) --- <i class="fa-solid fa-location-dot"></i> personal
+<i class="fa-solid fa-link"></i> [webapp](https://whatstk.streamlit.app/), [documentation](https://whatstk.lcsrg.me/), [github](https://github.com/lucasrodes/whatstk), [article](https://medium.com/data-science/analyzing-whatsapp-chats-with-python-20d62ce7fe2d) --- <i class="fa-solid fa-location-dot"></i> personal
 
 <i class="fa fa-check-square" aria-hidden="true"></i> **democracy** (2023 Apr -- May) --- data, visualizations, and writing on on how democracy has spread across countries, how it differs between them, and whether we are moving towards a more democratic world. <br>
 <i class="fa-solid fa-link"></i> [topic page](https://ourworldindata.org/democracy) --- <i class="fa-solid fa-location-dot"></i> owid
