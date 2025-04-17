@@ -20,7 +20,7 @@ interact and explore food systems, using data from the [UN Food and Agriculture 
   research and data management to make progress against the world’s largest problems, working as a Data Analyst.
 
 #### 2020
-* **whatstk [article](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d) on
+* **whatstk [article](https://medium.com/data-science/using-jupyter-notebook-running-on-a-remote-docker-container-via-ssh-ea2c3ebb9055) on
 Towards Data Science** (2020 June) --- Presentation to the public of python library whatstk on Towards Data Science blog.
 
 * **New server** (2020 July) --- Built new home server! Using Cent OS 8, AMD CPU and NVIDIA GPU. Mainly devoted to AI and
