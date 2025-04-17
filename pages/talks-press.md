@@ -120,7 +120,7 @@ layout: default
 </summary>
   <p>
     Presentation to the public of python library whatstk on <i>Towards Data Science</i> blog. <br>
-    <i class="fa-solid fa-link"></i> <a href="https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d">article</a>
+    <i class="fa-solid fa-link"></i> <a href="https://medium.com/data-science/analyzing-whatsapp-chats-with-python-20d62ce7fe2d">article</a>
   </p> 
 </details>
 
