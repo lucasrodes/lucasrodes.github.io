@@ -1,5 +1,9 @@
 ---
 layout: default
+title: hi
+description: >
+  Data scientist at Our World in Data — and yes, I sometimes
+  greet the world with a friendly “meow”.
 ---
 
 # lucas rodés-guirao
