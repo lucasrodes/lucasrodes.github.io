@@ -16,10 +16,23 @@ Interests: geography, demography, sustainable development, AI, design, etc.
 
 [Ping me](./pages/contact) for collaborations — or to say hi.
 
-<!-- <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;">test</a> -->
-
-<!-- - Currently : Data Scientist at [eDreams Odigeo](https://www.edreamsodigeo.com/) (Barcelona, ES).
-- Previously: Deep learning researcher at [NII](www.nii.ac.jp/en/) (Tokyo, JP), Machine Learning
-Engineer at [Tracy](https://www.linkedin.com/company/tracy) (Stockholm, SE).
-
-cheers <i class="fa fa-hand-peace-o" aria-hidden="true"></i> -->
+<!-- ✅ Structured data block -->
+<script type="application/ld+json">
+{
+  "@context":  "https://schema.org",
+  "@type":     "Person",
+  "name":      "Lucas Rodés-Guirao",
+  "url":       "https://lcsrg.me",
+  "jobTitle":  "Data Scientist",
+  "worksFor":  {
+    "@type": "Organization",
+    "name":  "Our World in Data"
+  },
+  "description": "Data scientist who occasionally meows when excited.",
+  "sameAs": [
+    "https://github.com/lucasrodes",
+    "https://twitter.com/lucasrg_",
+    "https://www.linkedin.com/in/lucasrodes"
+  ]
+}
+</script>
