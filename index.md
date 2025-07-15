@@ -8,7 +8,7 @@ layout: default
 
 I'm a software developer and data scientist focused on open-source projects that bring data closer to people. Currently at [Our World in Data](https://ourworldindata.org/team/lucas-rodes-guirao).
 
-Interests: demography, global health, sustainable development, machine learning, design, etc.
+Interests: geography, demography, sustainable development, AI, design, etc.
 
 [Ping me](./pages/contact) for collaborations — or to say hi.
 
